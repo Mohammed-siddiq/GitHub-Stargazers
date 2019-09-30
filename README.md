@@ -75,7 +75,6 @@ The Executed output for each language is stored under `output/` directory.
 ### Top Starred Repositories
 
 
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                               Top 5 starred repos for scala language
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -86,18 +85,8 @@ The Executed output for each language is stored under `output/` directory.
 |3         |"scala"                       |"https://github.com/scala/scala"                            |2803      |52        |4140      |8381                |819       |12146     |0         |
 |4         |"predictionio"                |"https://github.com/apache/predictionio"                    |1982      |1         |16        |413                 |804       |12100     |0         |
 |5         |"playframework"               |"https://github.com/playframework/playframework"            |3790      |34        |855       |6411                |749       |11344     |3274      |
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
 
 ### Recent Action in top Repositories : Latest Bugs/Issues
-
-
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                         Latest Issues in scala's top 5 starred repos
@@ -129,19 +118,10 @@ The Executed output for each language is stored under `output/` directory.
 |          |                              |                                                            |                              |Issue Link: "https://github.com/playframework/playframework/issues/9669"
 |          |                              |                                                            |                              |Issue Title: "Add missing Java Body Parsers"
 |          |                              |                                                            |                              |Issue Link: "https://github.com/playframework/playframework/issues/9683"
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 
 
 
 ### Recent Action in top Repositories : Latest Pull Requests
-
-
-
-
-
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                 Latest Pull Requests in  scala's top 5 starred repos
@@ -203,4 +183,3 @@ The Executed output for each language is stored under `output/` directory.
 |          |                              |                                                            |                              |PR Link: "https://github.com/playframework/playframework/pull/9692"
 |          |                              |                                                            |                              |PR Title: "Java's field.indexes() wasn't working for DynamicForm"
 |          |                              |                                                            |                              |PR Link: "https://github.com/playframework/playframework/pull/9693"
-
