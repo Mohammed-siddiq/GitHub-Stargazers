@@ -1,0 +1,689 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                           Top 100 starred repos for python language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |11866     |0         |2         |230                 |4014      |73991     |95        |
+|2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |14461     |0         |20        |1195                |5331      |73578     |157       |
+|3         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |6923      |0         |6         |900                 |1931      |62866     |112       |
+|4         |"models"                      |"https://github.com/tensorflow/models"                      |36420     |8         |131       |2835                |2959      |57918     |4658      |
+|5         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |9732      |276       |1445      |3504                |1794      |56058     |17989     |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                     Latest Issues in python's top 100 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |95                            |
+                                                                                                                                     |Issue Title: "Add database clustering"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/309"
+                                                                                                                                     |Issue Title: "Cache might be overwrite by the old version in \"Design KV for web server query\""
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/311"
+                                                                                                                                     |Issue Title: "Availability patterns description"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/313"
+                                                                                                                                     |Issue Title: "Help with MQs"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/322"
+                                                                                                                                     |Issue Title: "flash cards not support anki night model"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/326"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |157                           |
+                                                                                                                                     |Issue Title: "Add brython"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1347"
+                                                                                                                                     |Issue Title: "Add Sacred"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1353"
+                                                                                                                                     |Issue Title: "add scikit-optimize"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1354"
+                                                                                                                                     |Issue Title: "add mlxtend"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1355"
+                                                                                                                                     |Issue Title: "add auto-sklearn"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1356"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |112                           |
+                                                                                                                                     |Issue Title: "This is one of my favorite repositories for awesome APIs"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/994"
+                                                                                                                                     |Issue Title: "fortniteapi.com important information"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/998"
+                                                                                                                                     |Issue Title: "haveibeenpwned's v3 API"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1009"
+                                                                                                                                     |Issue Title: "AXFR Database link doesn't work"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1016"
+                                                                                                                                     |Issue Title: "insert https://developers.bb.com.br/docs/#!/Checking_Account/get_statements_checking_account"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1020"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"models"                      |"https://github.com/tensorflow/models"                      |4658                          |
+                                                                                                                                     |Issue Title: "ssd-mobilenet-v1 can't convert to TensorRT in current repo"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7607"
+                                                                                                                                     |Issue Title: "official/Recommendation/ncf_keras_main.py: queue.Empty Error!"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7608"
+                                                                                                                                     |Issue Title: "fp16 auto mixed precision transformer of multi-gpu runs much slower than expected"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7610"
+                                                                                                                                     |Issue Title: "[object detection] retrain model is not effective"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7611"
+                                                                                                                                     |Issue Title: "BERT 2.0 break the fusion of MatMul and BiasAdd"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7612"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |17989                         |
+                                                                                                                                     |Issue Title: "Error when running in a google cloud function"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22549"
+                                                                                                                                     |Issue Title: "please add vidwatch.me"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22550"
+                                                                                                                                     |Issue Title: "ERROR: Unable to download webpage: HTTP Error 404: Not Found (caused by HTTPError());"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22551"
+                                                                                                                                     |Issue Title: "Bug when downloading from udemy.com"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22552"
+                                                                                                                                     |Issue Title: "ERROR: unable to download video data: <urlopen error EOF occurred in violation of protocol (_ssl.c:600)>"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22553"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                               Latest Pull Requests in  python's top 5 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |230                           |
+                                                                                                                                     |PR Title: "Update DMOZ link - archive"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/320"
+                                                                                                                                     |PR Title: "removing dead links"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/321"
+                                                                                                                                     |PR Title: "ja: Correct mistranslations in Asynchronism section"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/323"
+                                                                                                                                     |PR Title: "ja: Correct mistranslations in Cache section"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/324"
+                                                                                                                                     |PR Title: "Update README.md"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/325"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |1195                          |
+                                                                                                                                     |PR Title: "Adds awesome-python-typing link"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1349"
+                                                                                                                                     |PR Title: "Add copier"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1350"
+                                                                                                                                     |PR Title: "Add cornac"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1351"
+                                                                                                                                     |PR Title: "Add python-benedict"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1352"
+                                                                                                                                     |PR Title: "Adding Dramatiq to Queues section."
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1357"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |900                           |
+                                                                                                                                     |PR Title: "Added JokeAPI"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1021"
+                                                                                                                                     |PR Title: "Add \"The Breaking Bad API\""
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1022"
+                                                                                                                                     |PR Title: "Add \"The Breaking Bad API\""
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1023"
+                                                                                                                                     |PR Title: "Add owlbot dictionary API"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1024"
+                                                                                                                                     |PR Title: "Add freegeoip.app"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1025"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"models"                      |"https://github.com/tensorflow/models"                      |2835                          |
+                                                                                                                                     |PR Title: "Rename keyword arg identifier to fix deprecation warning"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7603"
+                                                                                                                                     |PR Title: "Remove unmaintained fork of Minigo code"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7605"
+                                                                                                                                     |PR Title: "Added grayscale support to Slim preprocessing"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7609"
+                                                                                                                                     |PR Title: "Update requirements.txt with tf hub"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7613"
+                                                                                                                                     |PR Title: "Trigger Kokoro testing, do not review."
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7614"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |3504                          |
+                                                                                                                                     |PR Title: "[xvideos] Add support for alternative urls."
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22471"
+                                                                                                                                     |PR Title: "[telequebec] Support coucou subdomain URLs"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22482"
+                                                                                                                                     |PR Title: "[oxygen] Add new extractor"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22500"
+                                                                                                                                     |PR Title: "[fc2] Fixed fc2 video download"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22520"
+                                                                                                                                     |PR Title: "[youtube] Remove invidious.enkirton.net"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22543"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Top 10 starred repos for python language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |14461     |0         |20        |1195                |5331      |73578     |157       |
+|2         |"models"                      |"https://github.com/tensorflow/models"                      |36420     |8         |131       |2835                |2959      |57918     |4658      |
+|3         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |9732      |276       |1445      |3504                |1794      |56058     |17989     |
+|4         |"flask"                       |"https://github.com/pallets/flask"                          |12950     |9         |147       |1575                |2273      |46704     |1789      |
+|5         |"keras"                       |"https://github.com/keras-team/keras"                       |16884     |21        |222       |3786                |2072      |44427     |9580      |
+|6         |"django"                      |"https://github.com/django/django"                          |19116     |0         |1607      |11840               |2215      |44349     |0         |
+|7         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |2834      |31        |28        |235                 |1074      |43265     |553       |
+|8         |"requests"                    |"https://github.com/psf/requests"                           |7325      |0         |341       |1973                |1412      |40372     |2986      |
+|9         |"ansible"                     |"https://github.com/ansible/ansible"                        |16876     |3         |770       |38270               |2028      |39520     |24657     |
+|10        |"scikit-learn"                |"https://github.com/scikit-learn/scikit-learn"              |18300     |14        |2505      |8442                |2262      |37240     |6654      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                     Latest Issues in python's top 100 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |157                           |
+                                                                                                                                     |Issue Title: "Add brython"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1347"
+                                                                                                                                     |Issue Title: "Add Sacred"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1353"
+                                                                                                                                     |Issue Title: "add scikit-optimize"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1354"
+                                                                                                                                     |Issue Title: "add mlxtend"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1355"
+                                                                                                                                     |Issue Title: "add auto-sklearn"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1356"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"models"                      |"https://github.com/tensorflow/models"                      |4658                          |
+                                                                                                                                     |Issue Title: "ssd-mobilenet-v1 can't convert to TensorRT in current repo"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7607"
+                                                                                                                                     |Issue Title: "official/Recommendation/ncf_keras_main.py: queue.Empty Error!"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7608"
+                                                                                                                                     |Issue Title: "fp16 auto mixed precision transformer of multi-gpu runs much slower than expected"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7610"
+                                                                                                                                     |Issue Title: "[object detection] retrain model is not effective"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7611"
+                                                                                                                                     |Issue Title: "BERT 2.0 break the fusion of MatMul and BiasAdd"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7612"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |17989                         |
+                                                                                                                                     |Issue Title: "Error when running in a google cloud function"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22549"
+                                                                                                                                     |Issue Title: "please add vidwatch.me"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22550"
+                                                                                                                                     |Issue Title: "ERROR: Unable to download webpage: HTTP Error 404: Not Found (caused by HTTPError());"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22551"
+                                                                                                                                     |Issue Title: "Bug when downloading from udemy.com"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22552"
+                                                                                                                                     |Issue Title: "ERROR: unable to download video data: <urlopen error EOF occurred in violation of protocol (_ssl.c:600)>"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22553"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"flask"                       |"https://github.com/pallets/flask"                          |1789                          |
+                                                                                                                                     |Issue Title: "how to deploy this demo project with uWSGI+nginx in local environment?"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3370"
+                                                                                                                                     |Issue Title: "how to deploy this demo project with uWSGI+nginx in local environment?"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3371"
+                                                                                                                                     |Issue Title: "it's a answer to deploy the flaskr demo project with uWSGI and nginx, if therer's a error: unable to load app 0 (mountpoint='') (callable not found or import error)"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3372"
+                                                                                                                                     |Issue Title: "from werkzeug.wsgi import DispatcherMiddleware"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3373"
+                                                                                                                                     |Issue Title: "jinja2.exceptions.TemplateNotFound:"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3377"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"keras"                       |"https://github.com/keras-team/keras"                       |9580                          |
+                                                                                                                                     |Issue Title: "Get the results of other layers into loss function"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13371"
+                                                                                                                                     |Issue Title: "depthwise_conv1d"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13372"
+                                                                                                                                     |Issue Title: "Generating multiple different inputs for model"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13374"
+                                                                                                                                     |Issue Title: "Video classification using stateful LSTM , validation accuracy doesn't improve"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13375"
+                                                                                                                                     |Issue Title: "ResourceExhaustedError problem in fit_generator."
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13376"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"django"                      |"https://github.com/django/django"                          |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |553                           |
+                                                                                                                                     |Issue Title: "Stream mode not working for backend process"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/793"
+                                                                                                                                     |Issue Title: "Not following 304 redirect with POST"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/797"
+                                                                                                                                     |Issue Title: "--pretty=all not working in Windows"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/799"
+                                                                                                                                     |Issue Title: "\"SSL: CERTIFICATE_VERIFY_FAILED\" should show cert at least with --debug"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/800"
+                                                                                                                                     |Issue Title: "http: error: ConnectionError: ('Connection aborted.', HTTPException('got more than 100 headers',)) while doing GET request to URL"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/802"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"requests"                    |"https://github.com/psf/requests"                           |2986                          |
+                                                                                                                                     |Issue Title: "Clarification of timeline for removing Python 2.7 support"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5211"
+                                                                                                                                     |Issue Title: "URL in readme (https://2.python-requests.org/) is http only"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5212"
+                                                                                                                                     |Issue Title: "zlib.error: Error -3 while decompressing data: invalid distance too far back"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5213"
+                                                                                                                                     |Issue Title: "Website and documentation are offline"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5214"
+                                                                                                                                     |Issue Title: "verify=False causing memory leak"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5215"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"ansible"                     |"https://github.com/ansible/ansible"                        |24657                         |
+                                                                                                                                     |Issue Title: "redfish_command - Accounts - UpdateUserName / UpdatePasswordPolicy"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62937"
+                                                                                                                                     |Issue Title: "Cache redis plugin"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62938"
+                                                                                                                                     |Issue Title: "The synchronize module does not seem to have a backup function."
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62942"
+                                                                                                                                     |Issue Title: "--ask-vault-pass vs --vault-password-file"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62948"
+                                                                                                                                     |Issue Title: " ipaddr filter - 'ascii' codec can't encode character u'\\xa0'"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62949"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"scikit-learn"                |"https://github.com/scikit-learn/scikit-learn"              |6654                          |
+                                                                                                                                     |Issue Title: "ColumnTransformer throws ValueError inappropriately"
+                                                                                                                                     |Issue Link: "https://github.com/scikit-learn/scikit-learn/issues/15085"
+                                                                                                                                     |Issue Title: "strip_accents_unicode fails to strip accents from strings that are already in NFKD form"
+                                                                                                                                     |Issue Link: "https://github.com/scikit-learn/scikit-learn/issues/15087"
+                                                                                                                                     |Issue Title: "MaxAbsScaler Upcasts Pandas to float64"
+                                                                                                                                     |Issue Link: "https://github.com/scikit-learn/scikit-learn/issues/15093"
+                                                                                                                                     |Issue Title: "Use linting to for a requirement for some jobs on azure"
+                                                                                                                                     |Issue Link: "https://github.com/scikit-learn/scikit-learn/issues/15109"
+                                                                                                                                     |Issue Title: "Tabulated confusion matrix."
+                                                                                                                                     |Issue Link: "https://github.com/scikit-learn/scikit-learn/issues/15110"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Latest Pull Requests in  python's top 10 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |1195                          |
+                                                                                                                                     |PR Title: "Adds awesome-python-typing link"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1349"
+                                                                                                                                     |PR Title: "Add copier"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1350"
+                                                                                                                                     |PR Title: "Add cornac"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1351"
+                                                                                                                                     |PR Title: "Add python-benedict"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1352"
+                                                                                                                                     |PR Title: "Adding Dramatiq to Queues section."
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1357"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"models"                      |"https://github.com/tensorflow/models"                      |2835                          |
+                                                                                                                                     |PR Title: "Rename keyword arg identifier to fix deprecation warning"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7603"
+                                                                                                                                     |PR Title: "Remove unmaintained fork of Minigo code"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7605"
+                                                                                                                                     |PR Title: "Added grayscale support to Slim preprocessing"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7609"
+                                                                                                                                     |PR Title: "Update requirements.txt with tf hub"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7613"
+                                                                                                                                     |PR Title: "Trigger Kokoro testing, do not review."
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7614"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |3504                          |
+                                                                                                                                     |PR Title: "[xvideos] Add support for alternative urls."
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22471"
+                                                                                                                                     |PR Title: "[telequebec] Support coucou subdomain URLs"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22482"
+                                                                                                                                     |PR Title: "[oxygen] Add new extractor"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22500"
+                                                                                                                                     |PR Title: "[fc2] Fixed fc2 video download"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22520"
+                                                                                                                                     |PR Title: "[youtube] Remove invidious.enkirton.net"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22543"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"flask"                       |"https://github.com/pallets/flask"                          |1575                          |
+                                                                                                                                     |PR Title: "get_cookie_name in SessionInterface for easier overriding in SecureCookieSessionInterface"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3369"
+                                                                                                                                     |PR Title: "Remove old things from docs"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3374"
+                                                                                                                                     |PR Title: "reword extension python version item"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3375"
+                                                                                                                                     |PR Title: "update docs for new theme"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3376"
+                                                                                                                                     |PR Title: "Added escape"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3378"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"keras"                       |"https://github.com/keras-team/keras"                       |3786                          |
+                                                                                                                                     |PR Title: "Correct spelling mistake"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13339"
+                                                                                                                                     |PR Title: "fix #13341 math_ops to K"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13342"
+                                                                                                                                     |PR Title: "Fix encoding error"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13355"
+                                                                                                                                     |PR Title: "Remove @disable_tracking in Bidirectional.__init__"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13360"
+                                                                                                                                     |PR Title: "Update local.py"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13373"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"django"                      |"https://github.com/django/django"                          |11840                         |
+                                                                                                                                     |PR Title: "Fix list item typo on messages documentation page"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11850"
+                                                                                                                                     |PR Title: "Add warning for list_select_related in case a select_related is alrea…"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11851"
+                                                                                                                                     |PR Title: "Fixed #30807 -- Fix permissions when extracting archives & related tests"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11852"
+                                                                                                                                     |PR Title: "Moved site variables assignment outside of the lopp in contrib.auth.forms.PasswordResetForm.save()."
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11853"
+                                                                                                                                     |PR Title: "Fixes #30807 -- Fix permissions when extracting archives"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11854"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |235                           |
+                                                                                                                                     |PR Title: "Fix tests (work in progress)"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/796"
+                                                                                                                                     |PR Title: "Fix wrong character output when encoding is not correct"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/798"
+                                                                                                                                     |PR Title: "Update homebrew formula for 1.0.3"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/801"
+                                                                                                                                     |PR Title: "Add installation instructions for openSUSE"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/803"
+                                                                                                                                     |PR Title: "Update installation in Windows"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/804"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"requests"                    |"https://github.com/psf/requests"                           |1973                          |
+                                                                                                                                     |PR Title: "Tidy community files"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5206"
+                                                                                                                                     |PR Title: "Test on Python 3.8 beta"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5207"
+                                                                                                                                     |PR Title: "Part II: The Principle of Polarity"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5208"
+                                                                                                                                     |PR Title: "Session instance `verify` precedence over REQUESTS_CA_BUNDLE"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5210"
+                                                                                                                                     |PR Title: "documentation link fixed"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5216"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"ansible"                     |"https://github.com/ansible/ansible"                        |38270                         |
+                                                                                                                                     |PR Title: "[2.9] docker_container: document some of the unexpected behaviors"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62944"
+                                                                                                                                     |PR Title: "[2.8] docker_container: document some of the unexpected behaviors"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62945"
+                                                                                                                                     |PR Title: "[2.8] Fix _validate_csr_subject and _validate_csr_signature"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62946"
+                                                                                                                                     |PR Title: "[2.9] Fix _validate_csr_subject and _validate_csr_signature"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62947"
+                                                                                                                                     |PR Title: "fix minor typos in config description"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62950"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"scikit-learn"                |"https://github.com/scikit-learn/scikit-learn"              |8442                          |
+                                                                                                                                     |PR Title: "[MRG] Make safe_indexing private"
+                                                                                                                                     |PR Link: "https://github.com/scikit-learn/scikit-learn/pull/15104"
+                                                                                                                                     |PR Title: "[NOMRG]  new warmstart API + grid search for GBDTs"
+                                                                                                                                     |PR Link: "https://github.com/scikit-learn/scikit-learn/pull/15105"
+                                                                                                                                     |PR Title: "CI dropping python-3.5"
+                                                                                                                                     |PR Link: "https://github.com/scikit-learn/scikit-learn/pull/15106"
+                                                                                                                                     |PR Title: "[MRG] Add examples to DummyClassifier and DummyRegressor class docs"
+                                                                                                                                     |PR Link: "https://github.com/scikit-learn/scikit-learn/pull/15107"
+                                                                                                                                     |PR Title: "added handle_unknown feature to OrdinalEncoder class"
+                                                                                                                                     |PR Link: "https://github.com/scikit-learn/scikit-learn/pull/15108"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Top 10 starred repos for python language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |11866     |0         |2         |230                 |4014      |73991     |95        |
+|2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |14461     |0         |20        |1195                |5331      |73578     |157       |
+|3         |"models"                      |"https://github.com/tensorflow/models"                      |36420     |8         |131       |2835                |2959      |57918     |4658      |
+|4         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |9732      |276       |1445      |3504                |1794      |56057     |17989     |
+|5         |"thefuck"                     |"https://github.com/nvbn/thefuck"                           |2342      |14        |26        |464                 |805       |47774     |489       |
+|6         |"flask"                       |"https://github.com/pallets/flask"                          |12950     |9         |147       |1575                |2273      |46703     |1789      |
+|7         |"keras"                       |"https://github.com/keras-team/keras"                       |16884     |21        |222       |3786                |2072      |44428     |9580      |
+|8         |"django"                      |"https://github.com/django/django"                          |19116     |0         |1607      |11840               |2215      |44349     |0         |
+|9         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |2834      |31        |28        |235                 |1074      |43265     |553       |
+|10        |"requests"                    |"https://github.com/psf/requests"                           |7325      |0         |341       |1973                |1412      |40372     |2986      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      Latest Issues in python's top 10 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |95                            |
+                                                                                                                                     |Issue Title: "Add database clustering"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/309"
+                                                                                                                                     |Issue Title: "Cache might be overwrite by the old version in \"Design KV for web server query\""
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/311"
+                                                                                                                                     |Issue Title: "Availability patterns description"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/313"
+                                                                                                                                     |Issue Title: "Help with MQs"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/322"
+                                                                                                                                     |Issue Title: "flash cards not support anki night model"
+                                                                                                                                     |Issue Link: "https://github.com/donnemartin/system-design-primer/issues/326"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |157                           |
+                                                                                                                                     |Issue Title: "Add brython"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1347"
+                                                                                                                                     |Issue Title: "Add Sacred"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1353"
+                                                                                                                                     |Issue Title: "add scikit-optimize"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1354"
+                                                                                                                                     |Issue Title: "add mlxtend"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1355"
+                                                                                                                                     |Issue Title: "add auto-sklearn"
+                                                                                                                                     |Issue Link: "https://github.com/vinta/awesome-python/issues/1356"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"models"                      |"https://github.com/tensorflow/models"                      |4658                          |
+                                                                                                                                     |Issue Title: "ssd-mobilenet-v1 can't convert to TensorRT in current repo"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7607"
+                                                                                                                                     |Issue Title: "official/Recommendation/ncf_keras_main.py: queue.Empty Error!"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7608"
+                                                                                                                                     |Issue Title: "fp16 auto mixed precision transformer of multi-gpu runs much slower than expected"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7610"
+                                                                                                                                     |Issue Title: "[object detection] retrain model is not effective"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7611"
+                                                                                                                                     |Issue Title: "BERT 2.0 break the fusion of MatMul and BiasAdd"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/models/issues/7612"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |17989                         |
+                                                                                                                                     |Issue Title: "Error when running in a google cloud function"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22549"
+                                                                                                                                     |Issue Title: "please add vidwatch.me"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22550"
+                                                                                                                                     |Issue Title: "ERROR: Unable to download webpage: HTTP Error 404: Not Found (caused by HTTPError());"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22551"
+                                                                                                                                     |Issue Title: "Bug when downloading from udemy.com"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22552"
+                                                                                                                                     |Issue Title: "ERROR: unable to download video data: <urlopen error EOF occurred in violation of protocol (_ssl.c:600)>"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22553"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"thefuck"                     |"https://github.com/nvbn/thefuck"                           |489                           |
+                                                                                                                                     |Issue Title: "fish-proof pacman rule"
+                                                                                                                                     |Issue Link: "https://github.com/nvbn/thefuck/issues/954"
+                                                                                                                                     |Issue Title: "Feature Request: Invoke the fuck automativcally with exit status"
+                                                                                                                                     |Issue Link: "https://github.com/nvbn/thefuck/issues/955"
+                                                                                                                                     |Issue Title: "Suggest correct filename for editing"
+                                                                                                                                     |Issue Link: "https://github.com/nvbn/thefuck/issues/956"
+                                                                                                                                     |Issue Title: "`&&` or `|` support"
+                                                                                                                                     |Issue Link: "https://github.com/nvbn/thefuck/issues/957"
+                                                                                                                                     |Issue Title: "Cannot use thefuck with powerlevel10k and zsh"
+                                                                                                                                     |Issue Link: "https://github.com/nvbn/thefuck/issues/958"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"flask"                       |"https://github.com/pallets/flask"                          |1789                          |
+                                                                                                                                     |Issue Title: "how to deploy this demo project with uWSGI+nginx in local environment?"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3370"
+                                                                                                                                     |Issue Title: "how to deploy this demo project with uWSGI+nginx in local environment?"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3371"
+                                                                                                                                     |Issue Title: "it's a answer to deploy the flaskr demo project with uWSGI and nginx, if therer's a error: unable to load app 0 (mountpoint='') (callable not found or import error)"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3372"
+                                                                                                                                     |Issue Title: "from werkzeug.wsgi import DispatcherMiddleware"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3373"
+                                                                                                                                     |Issue Title: "jinja2.exceptions.TemplateNotFound:"
+                                                                                                                                     |Issue Link: "https://github.com/pallets/flask/issues/3377"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"keras"                       |"https://github.com/keras-team/keras"                       |9580                          |
+                                                                                                                                     |Issue Title: "Get the results of other layers into loss function"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13371"
+                                                                                                                                     |Issue Title: "depthwise_conv1d"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13372"
+                                                                                                                                     |Issue Title: "Generating multiple different inputs for model"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13374"
+                                                                                                                                     |Issue Title: "Video classification using stateful LSTM , validation accuracy doesn't improve"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13375"
+                                                                                                                                     |Issue Title: "ResourceExhaustedError problem in fit_generator."
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13376"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"django"                      |"https://github.com/django/django"                          |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |553                           |
+                                                                                                                                     |Issue Title: "Stream mode not working for backend process"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/793"
+                                                                                                                                     |Issue Title: "Not following 304 redirect with POST"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/797"
+                                                                                                                                     |Issue Title: "--pretty=all not working in Windows"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/799"
+                                                                                                                                     |Issue Title: "\"SSL: CERTIFICATE_VERIFY_FAILED\" should show cert at least with --debug"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/800"
+                                                                                                                                     |Issue Title: "http: error: ConnectionError: ('Connection aborted.', HTTPException('got more than 100 headers',)) while doing GET request to URL"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/802"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"requests"                    |"https://github.com/psf/requests"                           |2986                          |
+                                                                                                                                     |Issue Title: "Clarification of timeline for removing Python 2.7 support"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5211"
+                                                                                                                                     |Issue Title: "URL in readme (https://2.python-requests.org/) is http only"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5212"
+                                                                                                                                     |Issue Title: "zlib.error: Error -3 while decompressing data: invalid distance too far back"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5213"
+                                                                                                                                     |Issue Title: "Website and documentation are offline"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5214"
+                                                                                                                                     |Issue Title: "verify=False causing memory leak"
+                                                                                                                                     |Issue Link: "https://github.com/psf/requests/issues/5215"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Latest Pull Requests in  python's top 10 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"system-design-primer"        |"https://github.com/donnemartin/system-design-primer"       |230                           |
+                                                                                                                                     |PR Title: "Update DMOZ link - archive"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/320"
+                                                                                                                                     |PR Title: "removing dead links"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/321"
+                                                                                                                                     |PR Title: "ja: Correct mistranslations in Asynchronism section"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/323"
+                                                                                                                                     |PR Title: "ja: Correct mistranslations in Cache section"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/324"
+                                                                                                                                     |PR Title: "Update README.md"
+                                                                                                                                     |PR Link: "https://github.com/donnemartin/system-design-primer/pull/325"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"awesome-python"              |"https://github.com/vinta/awesome-python"                   |1195                          |
+                                                                                                                                     |PR Title: "Adds awesome-python-typing link"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1349"
+                                                                                                                                     |PR Title: "Add copier"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1350"
+                                                                                                                                     |PR Title: "Add cornac"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1351"
+                                                                                                                                     |PR Title: "Add python-benedict"
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1352"
+                                                                                                                                     |PR Title: "Adding Dramatiq to Queues section."
+                                                                                                                                     |PR Link: "https://github.com/vinta/awesome-python/pull/1357"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"models"                      |"https://github.com/tensorflow/models"                      |2835                          |
+                                                                                                                                     |PR Title: "Rename keyword arg identifier to fix deprecation warning"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7603"
+                                                                                                                                     |PR Title: "Remove unmaintained fork of Minigo code"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7605"
+                                                                                                                                     |PR Title: "Added grayscale support to Slim preprocessing"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7609"
+                                                                                                                                     |PR Title: "Update requirements.txt with tf hub"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7613"
+                                                                                                                                     |PR Title: "Trigger Kokoro testing, do not review."
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/models/pull/7614"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |3504                          |
+                                                                                                                                     |PR Title: "[xvideos] Add support for alternative urls."
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22471"
+                                                                                                                                     |PR Title: "[telequebec] Support coucou subdomain URLs"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22482"
+                                                                                                                                     |PR Title: "[oxygen] Add new extractor"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22500"
+                                                                                                                                     |PR Title: "[fc2] Fixed fc2 video download"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22520"
+                                                                                                                                     |PR Title: "[youtube] Remove invidious.enkirton.net"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22543"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"thefuck"                     |"https://github.com/nvbn/thefuck"                           |464                           |
+                                                                                                                                     |PR Title: "Change: rules_git_checkout handling branch names with slashes & Remote HEAD."
+                                                                                                                                     |PR Link: "https://github.com/nvbn/thefuck/pull/944"
+                                                                                                                                     |PR Title: "Change sudo.py pattern to lowercase"
+                                                                                                                                     |PR Link: "https://github.com/nvbn/thefuck/pull/947"
+                                                                                                                                     |PR Title: "Suppport rbenv install"
+                                                                                                                                     |PR Link: "https://github.com/nvbn/thefuck/pull/948"
+                                                                                                                                     |PR Title: "Correct \"apt uninstall\" -> \"apt remove\""
+                                                                                                                                     |PR Link: "https://github.com/nvbn/thefuck/pull/950"
+                                                                                                                                     |PR Title: "Harmless parameter name addition"
+                                                                                                                                     |PR Link: "https://github.com/nvbn/thefuck/pull/952"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"flask"                       |"https://github.com/pallets/flask"                          |1575                          |
+                                                                                                                                     |PR Title: "get_cookie_name in SessionInterface for easier overriding in SecureCookieSessionInterface"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3369"
+                                                                                                                                     |PR Title: "Remove old things from docs"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3374"
+                                                                                                                                     |PR Title: "reword extension python version item"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3375"
+                                                                                                                                     |PR Title: "update docs for new theme"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3376"
+                                                                                                                                     |PR Title: "Added escape"
+                                                                                                                                     |PR Link: "https://github.com/pallets/flask/pull/3378"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"keras"                       |"https://github.com/keras-team/keras"                       |3786                          |
+                                                                                                                                     |PR Title: "Correct spelling mistake"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13339"
+                                                                                                                                     |PR Title: "fix #13341 math_ops to K"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13342"
+                                                                                                                                     |PR Title: "Fix encoding error"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13355"
+                                                                                                                                     |PR Title: "Remove @disable_tracking in Bidirectional.__init__"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13360"
+                                                                                                                                     |PR Title: "Update local.py"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13373"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"django"                      |"https://github.com/django/django"                          |11840                         |
+                                                                                                                                     |PR Title: "Fix list item typo on messages documentation page"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11850"
+                                                                                                                                     |PR Title: "Add warning for list_select_related in case a select_related is alrea…"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11851"
+                                                                                                                                     |PR Title: "Fixed #30807 -- Fix permissions when extracting archives & related tests"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11852"
+                                                                                                                                     |PR Title: "Moved site variables assignment outside of the lopp in contrib.auth.forms.PasswordResetForm.save()."
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11853"
+                                                                                                                                     |PR Title: "Fixes #30807 -- Fix permissions when extracting archives"
+                                                                                                                                     |PR Link: "https://github.com/django/django/pull/11854"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |235                           |
+                                                                                                                                     |PR Title: "Fix tests (work in progress)"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/796"
+                                                                                                                                     |PR Title: "Fix wrong character output when encoding is not correct"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/798"
+                                                                                                                                     |PR Title: "Update homebrew formula for 1.0.3"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/801"
+                                                                                                                                     |PR Title: "Add installation instructions for openSUSE"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/803"
+                                                                                                                                     |PR Title: "Update installation in Windows"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/804"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"requests"                    |"https://github.com/psf/requests"                           |1973                          |
+                                                                                                                                     |PR Title: "Tidy community files"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5206"
+                                                                                                                                     |PR Title: "Test on Python 3.8 beta"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5207"
+                                                                                                                                     |PR Title: "Part II: The Principle of Polarity"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5208"
+                                                                                                                                     |PR Title: "Session instance `verify` precedence over REQUESTS_CA_BUNDLE"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5210"
+                                                                                                                                     |PR Title: "documentation link fixed"
+                                                                                                                                     |PR Link: "https://github.com/psf/requests/pull/5216"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
