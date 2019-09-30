@@ -38,10 +38,10 @@ class RepoIssues extends GenerateQueryResult with ProcessQueryResult {
     for (issue <- issues.value) {
       val issueNode = issue \ "node"
 
-      val authorNode = issueNode \ "author"
-      val author = Actor(userName = (authorNode \ "login").get.toString(), url = (authorNode \ "url").get.toString(), avatarUrl = (authorNode \ "avatarUrl").get.toString())
+//      val authorNode = issueNode \ "author"
+//      val author = Actor(userName = (authorNode \ "login").get.toString(), url = (authorNode \ "url").get.toString(), avatarUrl = (authorNode \ "avatarUrl").get.toString())
       val repIssue = Issue(body = (issueNode \ "body").get.toString(), createdAt = (issueNode \ "createdAt").get.as[Date],
-        issueLink = (issueNode \ "url").get.toString(), author = author, title = (issueNode \ "title").get.toString())
+        issueLink = (issueNode \ "url").get.toString(), title = (issueNode \ "title").get.toString())
 
       repoIssues += repIssue
 

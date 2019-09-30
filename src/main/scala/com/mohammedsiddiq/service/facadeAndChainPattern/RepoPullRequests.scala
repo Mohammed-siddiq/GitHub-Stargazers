@@ -29,8 +29,7 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
     for (pr <- pullReqs.value) {
       val prNode = pr \ "node"
 
-      val authorNode = prNode \ "author"
-      val author = Actor(userName = (authorNode \ "login").get.toString(), url = (authorNode \ "url").get.toString(), avatarUrl = (authorNode \ "avatarUrl").get.toString())
+//      val authorNode = Option(prNode \ "author")
       val repPr = PullRequest(title = (prNode \ "title").get.toString(), isMerged = (prNode \ "merged").as[Boolean], createdAt = (prNode \ "createdAt").as[Date], url = (prNode \ "url").get.toString())
 
       repoPrs += repPr
