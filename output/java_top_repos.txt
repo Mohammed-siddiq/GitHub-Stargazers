@@ -1,0 +1,153 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                               Top 5 starred repos for java language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"LeetCodeAnimation"           |"https://github.com/MisterBooo/LeetCodeAnimation"           |7139      |0         |0         |9                   |1933      |41446     |20        |
+|2         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |6826      |180       |100       |3253                |2375      |40622     |2776      |
+|3         |"interviews"                  |"https://github.com/kdn251/interviews"                      |8118      |0         |3         |102                 |2249      |39042     |36        |
+|4         |"okhttp"                      |"https://github.com/square/okhttp"                          |7520      |0         |148       |2613                |1666      |34486     |2824      |
+|5         |"guava"                       |"https://github.com/google/guava"                           |7573      |27        |250       |516                 |2465      |33972     |3024      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Latest Issues in java's top 5 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"LeetCodeAnimation"           |"https://github.com/MisterBooo/LeetCodeAnimation"           |20                            |
+                                                                                                                                     |Issue Title: "877号问题，数学问题补充。"
+                                                                                                                                     |Issue Link: "https://github.com/MisterBooo/LeetCodeAnimation/issues/23"
+                                                                                                                                     |Issue Title: "146可以多讲讲.."
+                                                                                                                                     |Issue Link: "https://github.com/MisterBooo/LeetCodeAnimation/issues/27"
+                                                                                                                                     |Issue Title: "可以增加排序算法“稳定”与“不稳定”的相关说明例子吗？"
+                                                                                                                                     |Issue Link: "https://github.com/MisterBooo/LeetCodeAnimation/issues/30"
+                                                                                                                                     |Issue Title: "请问动画是怎么做出来的呢？"
+                                                                                                                                     |Issue Link: "https://github.com/MisterBooo/LeetCodeAnimation/issues/32"
+                                                                                                                                     |Issue Title: "LeetCode 第 187 号问题：重复的 DNA 序列，解法建议"
+                                                                                                                                     |Issue Link: "https://github.com/MisterBooo/LeetCodeAnimation/issues/33"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |2776                          |
+                                                                                                                                     |Issue Title: "Single.errror(new Exception()) in onErrorResumeNext creates RuntimeException"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6654"
+                                                                                                                                     |Issue Title: "How to stay subscribed *while* certain types of events are emitted?"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6655"
+                                                                                                                                     |Issue Title: "VerifyError on Observable.zipArray"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6656"
+                                                                                                                                     |Issue Title: "2.2.13 release preparations"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6658"
+                                                                                                                                     |Issue Title: "Completable.delay does not respect delayError=false"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6659"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"interviews"                  |"https://github.com/kdn251/interviews"                      |36                            |
+                                                                                                                                     |Issue Title: "How did you guys visualize all those algorithms?"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/123"
+                                                                                                                                     |Issue Title: "leetcode/array/LongestConsecutiveSequence.java"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/124"
+                                                                                                                                     |Issue Title: "Hi ValidParentheses.java "
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/125"
+                                                                                                                                     |Issue Title: "Open a catalog：interviews/company/Alibaba"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/127"
+                                                                                                                                     |Issue Title: "Master is not compiling, Missing import statements(Java 8)"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/129"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"okhttp"                      |"https://github.com/square/okhttp"                          |2824                          |
+                                                                                                                                     |Issue Title: "Test to confirm that header names are not trimmed"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5500"
+                                                                                                                                     |Issue Title: "Upgrading to OkHttp 4.20 from 3.11.0 (cannot access url it is public/*package*/ in Request)"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5505"
+                                                                                                                                     |Issue Title: "NullPointerException: realConnectionPool"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5506"
+                                                                                                                                     |Issue Title: "TaskRunner tracking bug"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5512"
+                                                                                                                                     |Issue Title: "Protocol Upgrade Mechanism in okHttp Interceptors"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5514"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"guava"                       |"https://github.com/google/guava"                           |3024                          |
+                                                                                                                                     |Issue Title: "why guava not split into some maven modules?"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3619"
+                                                                                                                                     |Issue Title: "Consider FluentFuture as a return type for some methods"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3620"
+                                                                                                                                     |Issue Title: "Recommend that maven-shade-plugin users also change Guava class names"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3624"
+                                                                                                                                     |Issue Title: "Why ImmutableSortedSet use comparator to determine equals?"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3625"
+                                                                                                                                     |Issue Title: "MediaType::toString can produce unparsable results"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3626"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Latest Pull Requests in  java's top 5 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"LeetCodeAnimation"           |"https://github.com/MisterBooo/LeetCodeAnimation"           |9                             |
+                                                                                                                                     |PR Title: "Update LeetCode No.231：pow of 2"
+                                                                                                                                     |PR Link: "https://github.com/MisterBooo/LeetCodeAnimation/pull/24"
+                                                                                                                                     |PR Title: "a little mistake"
+                                                                                                                                     |PR Link: "https://github.com/MisterBooo/LeetCodeAnimation/pull/25"
+                                                                                                                                     |PR Title: "fixed 201 problem  -1 can not shift bug"
+                                                                                                                                     |PR Link: "https://github.com/MisterBooo/LeetCodeAnimation/pull/26"
+                                                                                                                                     |PR Title: "Merge conditions"
+                                                                                                                                     |PR Link: "https://github.com/MisterBooo/LeetCodeAnimation/pull/28"
+                                                                                                                                     |PR Title: "添加877.石子游戏数学分析部分的新思路"
+                                                                                                                                     |PR Link: "https://github.com/MisterBooo/LeetCodeAnimation/pull/29"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |3253                          |
+                                                                                                                                     |PR Title: "3.x: Fix takeLast(time) last events time window calculation."
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6648"
+                                                                                                                                     |PR Title: "3.x: constrain upstream requests from take, remove limit operator"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6650"
+                                                                                                                                     |PR Title: "3.x: Fix size+time bound window not creating windows properly"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6652"
+                                                                                                                                     |PR Title: "2.x: Fix takeLast(time) last events time window calculation."
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6653"
+                                                                                                                                     |PR Title: "2.x: Fix size+time bound window not creating windows properly"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6657"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"interviews"                  |"https://github.com/kdn251/interviews"                      |102                           |
+                                                                                                                                     |PR Title: "For study"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/135"
+                                                                                                                                     |PR Title: "For study"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/136"
+                                                                                                                                     |PR Title: "TestForStudy.java"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/137"
+                                                                                                                                     |PR Title: "please, accept my pull request, thank you"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/138"
+                                                                                                                                     |PR Title: "ghjk"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/139"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"okhttp"                      |"https://github.com/square/okhttp"                          |2613                          |
+                                                                                                                                     |PR Title: "Rewrite Dokka-generated markdown to include titles."
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5508"
+                                                                                                                                     |PR Title: "Add Kotlin listings for OkHttp recipes doc"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5509"
+                                                                                                                                     |PR Title: "Use TaskRunner in web sockets."
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5510"
+                                                                                                                                     |PR Title: "WIP: Android Certificate Check"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5511"
+                                                                                                                                     |PR Title: "Change HTTP/2 connections to track settings snapshots"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5513"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"guava"                       |"https://github.com/google/guava"                           |516                           |
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3618"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3621"
+                                                                                                                                     |PR Title: "Some code can be simplified"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3622"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3623"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3627"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

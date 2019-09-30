@@ -1,0 +1,143 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                Top 5 starred repos for cpp language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |77597     |89        |525       |12411               |8575      |134957    |20338     |
+|2         |"electron"                    |"https://github.com/electron/electron"                      |10195     |476       |262       |8672                |2791      |77280     |11560     |
+|3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |5112      |10        |46        |588                 |1160      |52592     |2385      |
+|4         |"swift"                       |"https://github.com/apple/swift"                            |7950      |18        |4111      |27312               |2539      |49235     |0         |
+|5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |24197     |29        |910       |11810               |3507      |40257     |4927      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                          Latest Issues in cpp's top 5 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |20338                         |
+                                                                                                                                     |Issue Title: "Wrong links in API document and search results"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32915"
+                                                                                                                                     |Issue Title: "local variable 'nccl_lib_path' referenced before assignment"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32916"
+                                                                                                                                     |Issue Title: "Tensorflow 2.0 custom_scalar plugin for tensorboard"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32918"
+                                                                                                                                     |Issue Title: "Multiple sessions with per_process_gpu_memory_fraction"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32919"
+                                                                                                                                     |Issue Title: "How to explitly save the values of every buffer in a tflite model?"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32920"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"electron"                    |"https://github.com/electron/electron"                      |11560                         |
+                                                                                                                                     |Issue Title: "CSS is wrong in \"package\" version"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20373"
+                                                                                                                                     |Issue Title: "Error in windows 7 start up (Electron setLoginItemSettings)"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20374"
+                                                                                                                                     |Issue Title: "electron App doesn't work at startup windows 7"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20375"
+                                                                                                                                     |Issue Title: "Screenshot/Capture whole webpage in BrowerView"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20376"
+                                                                                                                                     |Issue Title: "Closing windows created by nativeWindowOpen=true and sandbox=true or nodeIntegrationInSubFrames will freeze the creator window."
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20377"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |2385                          |
+                                                                                                                                     |Issue Title: "Windows Terminal does not create a Profile for PowerShell Core when install via MSIX or Global Tool"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2982"
+                                                                                                                                     |Issue Title: "Shortcut key to launch Terminal"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2983"
+                                                                                                                                     |Issue Title: "WT does not respect the initial rows and columns"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2984"
+                                                                                                                                     |Issue Title: "Colors are not correctly interpeted"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2985"
+                                                                                                                                     |Issue Title: "Crash in TextBufferCellIterator::TextBufferCellIterator() when moving cursor"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2986"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"swift"                       |"https://github.com/apple/swift"                            |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |4927                          |
+                                                                                                                                     |Issue Title: "Don't show 'no (Qt5)' in configure when GUI is disabled"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16989"
+                                                                                                                                     |Issue Title: "No addresses returned by getnodeaddresses RPC call"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16990"
+                                                                                                                                     |Issue Title: "Compilation warnings with g++ 9.1.1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16992"
+                                                                                                                                     |Issue Title: "Release process for 0.19.0rc1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16996"
+                                                                                                                                     |Issue Title: "reconsiderblock is prone to deadlocks when -checkblockindex=1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16998"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                  Latest Pull Requests in  cpp's top 5 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |12411                         |
+                                                                                                                                     |PR Title: "Update commands to look for keyword controller in lspci log"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32882"
+                                                                                                                                     |PR Title: "[ROCm] Change to pick up rocprim and hipcub libraries from ROCm install"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32883"
+                                                                                                                                     |PR Title: "[XLA:GPU] Thunk to cudnn fp16 for F16 batchnormalization"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32887"
+                                                                                                                                     |PR Title: "Fix for 32890"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32893"
+                                                                                                                                     |PR Title: "Added invocation and memory allocation checks"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32917"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"electron"                    |"https://github.com/electron/electron"                      |8672                          |
+                                                                                                                                     |PR Title: "fix: Make the `--disable-color-correct-rendering` switch work again (backport)"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20358"
+                                                                                                                                     |PR Title: "fix: Make the `--disable-color-correct-rendering` switch work again (backport)"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20359"
+                                                                                                                                     |PR Title: "fix: restore rounded window corners for vibrant windows on Mac"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20360"
+                                                                                                                                     |PR Title: "feat: properly serialize NaN and infinite numbers in the remote module"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20366"
+                                                                                                                                     |PR Title: "Update application-architecture.md"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20370"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |588                           |
+                                                                                                                                     |PR Title: "Fix potential cursor redrawing crash"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2965"
+                                                                                                                                     |PR Title: "docs: Fix Typo in README.md"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2972"
+                                                                                                                                     |PR Title: "Added <kbd> notations for keyboard keys."
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2975"
+                                                                                                                                     |PR Title: "Reuse text layout for performance"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2980"
+                                                                                                                                     |PR Title: "When reverse indexing, preserve RGB/256 attributes"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2987"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"swift"                       |"https://github.com/apple/swift"                            |27312                         |
+                                                                                                                                     |PR Title: "build-script: new spelling for swift compiler"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27434"
+                                                                                                                                     |PR Title: "[ASTScopes] Use RequestEvaluator for ASTScope expansion to detect recursion"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27435"
+                                                                                                                                     |PR Title: "[NFC] Adopt TypeBase-isms for GenericSignature"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27436"
+                                                                                                                                     |PR Title: "[Test] Modify Runtime.swift.gyb to only test 9999 availability when running against a runtime that isn't part of the OS."
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27437"
+                                                                                                                                     |PR Title: "build: stage libdispatch exports target usage"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27438"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |11810                         |
+                                                                                                                                     |PR Title: "qa: Fix service flag comparison check in rpc_net test (luke-jr)"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/16991"
+                                                                                                                                     |PR Title: "rpc: gettxoutsetinfo locks m_cs_chainstate "
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/16993"
+                                                                                                                                     |PR Title: "contrib: replace deprecated PermissionsStartOnly in systemd init"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/16994"
+                                                                                                                                     |PR Title: "Fix gcc 9 warnings"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/16995"
+                                                                                                                                     |PR Title: "doc: Update bips.md for 0.19"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/16997"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
