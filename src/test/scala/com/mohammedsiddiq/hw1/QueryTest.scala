@@ -4,7 +4,7 @@ import com.mohammedsiddiq.helpers.singletons.Constants
 import com.mohammedsiddiq.service.facadeAndChainPattern.{GenerateQueryResult, ProcessQueryResult, TopRepoFinder}
 import org.scalatest.FlatSpec
 
-class QueryTests extends FlatSpec {
+class QueryTest extends FlatSpec {
 
 
   "Query Result " should "generated query and respond valid JSON " in {
