@@ -7,6 +7,9 @@ import com.typesafe.config.{Config, ConfigFactory}
 import scala.collection.JavaConversions._
 import scala.collection.JavaConverters
 
+/**
+  * COnfig reader that reads and provides access to all the configs for the project
+  */
 object ConfigReader {
 
 
