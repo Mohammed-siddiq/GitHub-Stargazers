@@ -13,7 +13,7 @@ import scala.collection.mutable.ListBuffer
   * {Design patterns involved : Facade and chain of responsibility}
   *
   *
-  * Constructs repositories with attributes
+  * Constructs repositories with issues and their corresponding details
   * overriding create Repo to delegate the right responsibility
   *
   */
@@ -38,8 +38,8 @@ class RepoIssues extends GenerateQueryResult with ProcessQueryResult {
     for (issue <- issues.value) {
       val issueNode = issue \ "node"
 
-//      val authorNode = issueNode \ "author"
-//      val author = Actor(userName = (authorNode \ "login").get.toString(), url = (authorNode \ "url").get.toString(), avatarUrl = (authorNode \ "avatarUrl").get.toString())
+      //      val authorNode = issueNode \ "author"
+      //      val author = Actor(userName = (authorNode \ "login").get.toString(), url = (authorNode \ "url").get.toString(), avatarUrl = (authorNode \ "avatarUrl").get.toString())
       val repIssue = Issue(body = (issueNode \ "body").get.toString(), createdAt = (issueNode \ "createdAt").get.as[Date],
         issueLink = (issueNode \ "url").get.toString(), title = (issueNode \ "title").get.toString())
 
@@ -55,6 +55,12 @@ class RepoIssues extends GenerateQueryResult with ProcessQueryResult {
 
   }
 
+  /**
+    * Exposed facade that finds the repos with their issues
+    *
+    * @param forLanguageRepos The language to search for
+    * @param responseJson     The response which was already queried
+    */
 
   def findRepoIssues(forLanguageRepos: String, responseJson: String): Unit = {
 
@@ -65,6 +71,13 @@ class RepoIssues extends GenerateQueryResult with ProcessQueryResult {
 
   }
 
+  /**
+    * pretty print to capture and print the right attributes for the issue
+    *
+    * @param result   The list of repositories
+    * @param language Language whose details were extracted
+    * @return formatted string to be persisted
+    */
   override def prettyPrintResult(result: List[Repository], language: String): String = {
 
     val outputFileString = new StringBuilder
@@ -121,6 +134,12 @@ class RepoIssues extends GenerateQueryResult with ProcessQueryResult {
     //    super.prettyPrintResult(result, language)
   }
 
+  /**
+    * Stores the formatted output in the specific file
+    *
+    * @param formattedOutput
+    * @param language
+    */
   override def persistOutput(formattedOutput: String, language: String): Unit = {
     val file = new File(getOutPutFile(language))
     val bw = new BufferedWriter(new FileWriter(file, true))

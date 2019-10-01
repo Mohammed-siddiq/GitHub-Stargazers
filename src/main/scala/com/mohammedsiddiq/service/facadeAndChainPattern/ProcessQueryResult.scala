@@ -9,9 +9,11 @@ import play.api.libs.json._
 import scala.collection.mutable.ListBuffer
 
 /**
-  * {Design patterns involved : Facade}
   *
-  * Coverts the result string to a valid json and performs any type checking as required
+  * For converting  result string to a valid json and performs any type checking as required
+  * based on the task
+  *
+  * Will be extended and overridden accordingly for the tasks
   */
 trait ProcessQueryResult {
 
@@ -25,7 +27,7 @@ trait ProcessQueryResult {
 
     val logger = LoggerFactory.getLogger(this.getClass)
 
-    logger.info("Processing result ", queryResult)
+//    logger.info("Processing result ", queryResult)
     //Parse the json string to json object
     val responseJson = Json.parse(queryResult)
 
@@ -50,6 +52,12 @@ trait ProcessQueryResult {
     topRepositories.toList
   }
 
+  /**
+    * Creates repo given the JSon string
+    *
+    * @param jValue the json node in response
+    * @return List of repos
+    */
   def createRepo(jValue: JsValue): Repository = {
 
     val value = jValue \ "node"
@@ -63,8 +71,22 @@ trait ProcessQueryResult {
       url = (value \ "url").get.toString)
   }
 
+  /**
+    * To print the fromatted output
+    *
+    * @param result   The list of repos
+    * @param language The language queried for
+    * @return formatted output string
+    */
+
   def prettyPrintResult(result: List[Repository], language: String): String
 
+  /**
+    * Persists in right output file accordingly
+    *
+    * @param formattedOutput The formatted output to persists
+    * @param language        The language querying for
+    */
   def persistOutput(formattedOutput: String, language: String): Unit = {}
 
   def getOutPutFile(language: String): String = {

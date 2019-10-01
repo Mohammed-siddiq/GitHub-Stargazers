@@ -9,7 +9,13 @@ import play.api.libs.json.{JsArray, JsValue, Json}
 
 import scala.collection.mutable.ListBuffer
 
+/**
+  * Extracts the Repositories and their latest pull requests with PR details
+  *
+  * {Patterns in use : Facade and chain of responsibility}
+  */
 class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
+
   /**
     * overriding repo creation for capturing repository attributes
     * Since Repo is built with builder pattern only the required fields can be populated
@@ -29,7 +35,7 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
     for (pr <- pullReqs.value) {
       val prNode = pr \ "node"
 
-//      val authorNode = Option(prNode \ "author")
+      //      val authorNode = Option(prNode \ "author")
       val repPr = PullRequest(title = (prNode \ "title").get.toString(), isMerged = (prNode \ "merged").as[Boolean], createdAt = (prNode \ "createdAt").as[Date], url = (prNode \ "url").get.toString())
 
       repoPrs += repPr
@@ -44,7 +50,12 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
 
   }
 
-
+  /**
+    * Facade exposed to capture the PRS
+    *
+    * @param forLanguageRepos The language to find PRs
+    * @param responseJson     The response which was already queried
+    */
   def findRepoAttributes(forLanguageRepos: String, responseJson: String): Unit = {
 
     val repositories = processResult(responseJson)
@@ -53,6 +64,13 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
 
   }
 
+  /**
+    * pretty print to capture and print the right attributes for the PR
+    *
+    * @param result   The list of repositories
+    * @param language Language whose details were extracted
+    * @return formatted string to be persisted
+    */
   override def prettyPrintResult(result: List[Repository], language: String): String = {
 
 
@@ -108,6 +126,12 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
     outputFileString.toString
   }
 
+  /**
+    * Stores the formatted output in the specific file
+    *
+    * @param formattedOutput
+    * @param language
+    */
   override def persistOutput(formattedOutput: String, language: String): Unit = {
     val file = new File(getOutPutFile(language))
     val bw = new BufferedWriter(new FileWriter(file, true))

@@ -6,10 +6,11 @@ import com.mohammedsiddiq.helpers.singletons.{ConfigReader, Constants, Queries}
 import com.mohammedsiddiq.models.buiderpattern.Repository
 
 /**
-  * {Design patterns involved : Facade and chain of responsibility}
   *
-  * Constructs repositories with attributes
+  * Finds the top repositories
   * overriding create Repo to delegate the right responsibility
+  *
+  * {Design Patterns in use : Facade and chain of responsibility}
   */
 class TopRepoFinder extends GenerateQueryResult with ProcessQueryResult {
 
@@ -31,6 +32,13 @@ class TopRepoFinder extends GenerateQueryResult with ProcessQueryResult {
     (responseString, topRepos)
   }
 
+  /**
+    * pretty print to capture and print the right attributes for the Repos
+    *
+    * @param result   The list of repositories
+    * @param language Language whose details were extracted
+    * @return formatted string to be persisted
+    */
   override def prettyPrintResult(result: List[Repository], language: String): String = {
 
     val outputString = new StringBuilder
@@ -79,6 +87,12 @@ class TopRepoFinder extends GenerateQueryResult with ProcessQueryResult {
 
   }
 
+  /**
+    * Stores the formatted output in the specific file
+    *
+    * @param formattedOutput
+    * @param language
+    */
   override def persistOutput(formattedOutput: String, language: String): Unit = {
     val file = new File(getOutPutFile(language))
     val bw = new BufferedWriter(new FileWriter(file, true))

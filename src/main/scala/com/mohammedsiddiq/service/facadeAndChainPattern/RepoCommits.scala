@@ -8,7 +8,15 @@ import play.api.libs.json.{JsArray, JsValue}
 
 import scala.collection.mutable.ListBuffer
 
-class RepoComments extends GenerateQueryResult with ProcessQueryResult {
+
+/**
+  *
+  * Finds the top repositories and their latest commits
+  * overriding create Repo to delegate the right responsibility
+  *
+  * {Design Patterns in use : Facade and chain of responsibility}
+  */
+class RepoCommits extends GenerateQueryResult with ProcessQueryResult {
   /**
     * overriding repo creation for capturing repository attributes
     * Since Repo is built with builder pattern only the required fields can be populated
@@ -16,6 +24,7 @@ class RepoComments extends GenerateQueryResult with ProcessQueryResult {
     * @param jValue The repository JSON node
     * @return the [[Repository]] instance with required attributes
     */
+
   override def createRepo(jValue: JsValue): Repository = {
 
     val repoNode = jValue \ "node"

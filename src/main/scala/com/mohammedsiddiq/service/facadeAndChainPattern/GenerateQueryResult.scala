@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory
   */
 trait GenerateQueryResult {
 
-  protected def queryGithub(query: String): String = {
+  def queryGithub(query: String): String = {
     val logger = LoggerFactory.getLogger(this.getClass)
 
     val httpclient = HttpClients.createDefault
@@ -23,7 +23,7 @@ trait GenerateQueryResult {
 
     httpUriRequest.addHeader("Authorization", "bearer " + ConfigReader.API_TOKEN)
     httpUriRequest.addHeader("Accept", ConfigReader.JSON_CONTENT_TYPE)
-    val queryPayload = new StringEntity("{\"query\":\"" + query + "\"}" , ContentType.APPLICATION_JSON)
+    val queryPayload = new StringEntity("{\"query\":\"" + query + "\"}", ContentType.APPLICATION_JSON)
 
     logger.info("Sending payload {}", queryPayload.toString)
 
@@ -31,7 +31,6 @@ trait GenerateQueryResult {
 
 
     val response = httpclient.execute(httpUriRequest)
-
 
 
     response.getEntity match {
@@ -42,7 +41,7 @@ trait GenerateQueryResult {
       case x if x != null => {
         val stringResponse = EntityUtils.toString(response.getEntity, "UTF-8")
 
-        logger.info("Response payload {}", stringResponse)
+//        logger.info("Response payload {}", stringResponse)
         stringResponse
       }
     }
