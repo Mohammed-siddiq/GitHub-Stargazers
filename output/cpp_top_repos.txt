@@ -1,0 +1,393 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                               Top 15 starred repos for cpp language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |77609     |90        |526       |12417               |8578      |135070    |20352     |
+|2         |"electron"                    |"https://github.com/electron/electron"                      |10197     |476       |262       |8673                |2791      |77291     |11569     |
+|3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |5116      |10        |46        |595                 |1160      |52611     |2394      |
+|4         |"swift"                       |"https://github.com/apple/swift"                            |7953      |18        |4111      |27330               |2538      |49240     |0         |
+|5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |24201     |29        |910       |11817               |3506      |40258     |4927      |
+|6         |"opencv"                      |"https://github.com/opencv/opencv"                          |28774     |38        |302       |9833                |2527      |38584     |5753      |
+|7         |"protobuf"                    |"https://github.com/protocolbuffers/protobuf"               |10135     |36        |132       |3166                |2032      |37483     |3514      |
+|8         |"nw.js"                       |"https://github.com/nwjs/nw.js"                             |3833      |0         |109       |776                 |1771      |35886     |6370      |
+|9         |"x64dbg"                      |"https://github.com/x64dbg/x64dbg"                          |1097      |2         |202       |508                 |3169      |34285     |1692      |
+|10        |"pytorch"                     |"https://github.com/pytorch/pytorch"                        |7899      |22        |238       |16605               |1330      |31995     |10497     |
+|11        |"tesseract"                   |"https://github.com/tesseract-ocr/tesseract"                |5727      |7         |427       |1071                |1570      |30100     |1602      |
+|12        |"caffe"                       |"https://github.com/BVLC/caffe"                             |17599     |14        |166       |2201                |2234      |29159     |4625      |
+|13        |"godot"                       |"https://github.com/godotengine/godot"                      |4796      |23        |1277      |12136               |1276      |24706     |19450     |
+|14        |"grpc"                        |"https://github.com/grpc/grpc"                              |5506      |123       |272       |12789               |1135      |23311     |7614      |
+|15        |"rethinkdb"                   |"https://github.com/rethinkdb/rethinkdb"                    |1757      |67        |183       |561                 |864       |22666     |6188      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                         Latest Issues in cpp's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |20352                         |
+                                                                                                                                     |Issue Title: "BatchMatMul for TFLite"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32932"
+                                                                                                                                     |Issue Title: "tensorflow_transform can't be used with TF2.0"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32933"
+                                                                                                                                     |Issue Title: "Is it possible to convert a FP16 checkpoints to be compatible with FP32 runs ?"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32937"
+                                                                                                                                     |Issue Title: "Documentation for streaming training data from disk."
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32938"
+                                                                                                                                     |Issue Title: "Quantize training flow in TF 2.0"
+                                                                                                                                     |Issue Link: "https://github.com/tensorflow/tensorflow/issues/32939"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"electron"                    |"https://github.com/electron/electron"                      |11569                         |
+                                                                                                                                     |Issue Title: "Electron is setting itself to be the default application for text/html files on Linux"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20382"
+                                                                                                                                     |Issue Title: "Electron 6 BrowserWindow Debugger freezes indefinitely, without apparent pattern"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20383"
+                                                                                                                                     |Issue Title: "JAWS screen reader Virtual PC cursor does not allow selection"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20384"
+                                                                                                                                     |Issue Title: "Electron 6 Main Process can send via Node-IPC but not receive (Worked in 4.1.5)"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20385"
+                                                                                                                                     |Issue Title: "Cannot load NAPI addons in Nightly Debug build"
+                                                                                                                                     |Issue Link: "https://github.com/electron/electron/issues/20387"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |2394                          |
+                                                                                                                                     |Issue Title: "No Accessibility ID locators for UI elements - needed for UI tests "
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/2997"
+                                                                                                                                     |Issue Title: "Nano doesn't recognize arrow keys"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/3000"
+                                                                                                                                     |Issue Title: "Numpad shortcuts with both Ctrl and Shift don't work"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/3001"
+                                                                                                                                     |Issue Title: "Tabs can \"forget\" focus and title"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/3002"
+                                                                                                                                     |Issue Title: "Easy way to get Windows Terminal version info via script"
+                                                                                                                                     |Issue Link: "https://github.com/microsoft/terminal/issues/3003"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"swift"                       |"https://github.com/apple/swift"                            |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |4927                          |
+                                                                                                                                     |Issue Title: "Don't show 'no (Qt5)' in configure when GUI is disabled"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16989"
+                                                                                                                                     |Issue Title: "No addresses returned by getnodeaddresses RPC call"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16990"
+                                                                                                                                     |Issue Title: "Compilation warnings with g++ 9.1.1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16992"
+                                                                                                                                     |Issue Title: "Release process for 0.19.0rc1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16996"
+                                                                                                                                     |Issue Title: "reconsiderblock is prone to deadlocks when -checkblockindex=1"
+                                                                                                                                     |Issue Link: "https://github.com/bitcoin/bitcoin/issues/16998"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"opencv"                      |"https://github.com/opencv/opencv"                          |5753                          |
+                                                                                                                                     |Issue Title: "How to load any of this tracking algorithm in opencvjs(BOOSTING, MIL, KCF, TLD, MEDIANFLOW, GOTURN, MOSSE or CSRT)"
+                                                                                                                                     |Issue Link: "https://github.com/opencv/opencv/issues/15607"
+                                                                                                                                     |Issue Title: "Failed to precompile header when Eigen imported as CMake target"
+                                                                                                                                     |Issue Link: "https://github.com/opencv/opencv/issues/15610"
+                                                                                                                                     |Issue Title: "OpenCV.js and three.js"
+                                                                                                                                     |Issue Link: "https://github.com/opencv/opencv/issues/15612"
+                                                                                                                                     |Issue Title: "Extend v_permute intrinsic support to AVX2 and AVX512 baselines"
+                                                                                                                                     |Issue Link: "https://github.com/opencv/opencv/issues/15613"
+                                                                                                                                     |Issue Title: "Seeking more clarity in running action_recognition.py"
+                                                                                                                                     |Issue Link: "https://github.com/opencv/opencv/issues/15614"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"protobuf"                    |"https://github.com/protocolbuffers/protobuf"               |3514                          |
+                                                                                                                                     |Issue Title: "Outdated Utf8Decoder for Java?"
+                                                                                                                                     |Issue Link: "https://github.com/protocolbuffers/protobuf/issues/6704"
+                                                                                                                                     |Issue Title: "protoc usage is outdated, does not include go and dart options"
+                                                                                                                                     |Issue Link: "https://github.com/protocolbuffers/protobuf/issues/6706"
+                                                                                                                                     |Issue Title: "js"
+                                                                                                                                     |Issue Link: "https://github.com/protocolbuffers/protobuf/issues/6707"
+                                                                                                                                     |Issue Title: "identifier \"GOOGLE_DCHECK\" is undefined"
+                                                                                                                                     |Issue Link: "https://github.com/protocolbuffers/protobuf/issues/6710"
+                                                                                                                                     |Issue Title: "Failed update to version 3.10"
+                                                                                                                                     |Issue Link: "https://github.com/protocolbuffers/protobuf/issues/6712"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"nw.js"                       |"https://github.com/nwjs/nw.js"                             |6370                          |
+                                                                                                                                     |Issue Title: "'webkit-app-region: drag' does not work"
+                                                                                                                                     |Issue Link: "https://github.com/nwjs/nw.js/issues/7169"
+                                                                                                                                     |Issue Title: "App crashes on Windows on call to Window.setBadgeLabel"
+                                                                                                                                     |Issue Link: "https://github.com/nwjs/nw.js/issues/7170"
+                                                                                                                                     |Issue Title: "ERROR:http_transport_win.cc(178)] WinHttpCrackUrl"
+                                                                                                                                     |Issue Link: "https://github.com/nwjs/nw.js/issues/7171"
+                                                                                                                                     |Issue Title: "NW.js Desktop app is not proceeding to the next step [Chromedriver Automation]"
+                                                                                                                                     |Issue Link: "https://github.com/nwjs/nw.js/issues/7172"
+                                                                                                                                     |Issue Title: "No longer can access iframe contentWindow since 0.40.0"
+                                                                                                                                     |Issue Link: "https://github.com/nwjs/nw.js/issues/7173"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"x64dbg"                      |"https://github.com/x64dbg/x64dbg"                          |1692                          |
+                                                                                                                                     |Issue Title: "How to debug child process?"
+                                                                                                                                     |Issue Link: "https://github.com/x64dbg/x64dbg/issues/2214"
+                                                                                                                                     |Issue Title: "How can I reset the range by being out of range of memory in the stack?"
+                                                                                                                                     |Issue Link: "https://github.com/x64dbg/x64dbg/issues/2215"
+                                                                                                                                     |Issue Title: "x64dbg follow [xxxx] in dump problem!"
+                                                                                                                                     |Issue Link: "https://github.com/x64dbg/x64dbg/issues/2216"
+                                                                                                                                     |Issue Title: "I uninstalled it, but it keeps showing whenever I right click."
+                                                                                                                                     |Issue Link: "https://github.com/x64dbg/x64dbg/issues/2217"
+                                                                                                                                     |Issue Title: "Switch to a Free License"
+                                                                                                                                     |Issue Link: "https://github.com/x64dbg/x64dbg/issues/2218"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"pytorch"                     |"https://github.com/pytorch/pytorch"                        |10497                         |
+                                                                                                                                     |Issue Title: "Don't run user code in rpc until all involved RRefs are confirmed by owner"
+                                                                                                                                     |Issue Link: "https://github.com/pytorch/pytorch/issues/27098"
+                                                                                                                                     |Issue Title: "Support implicit RRef type conversion"
+                                                                                                                                     |Issue Link: "https://github.com/pytorch/pytorch/issues/27099"
+                                                                                                                                     |Issue Title: "RTX 8000 conv2d fails with benchmark=True"
+                                                                                                                                     |Issue Link: "https://github.com/pytorch/pytorch/issues/27115"
+                                                                                                                                     |Issue Title: "Comm.cpp should be compiled with USE_NCCL"
+                                                                                                                                     |Issue Link: "https://github.com/pytorch/pytorch/issues/27116"
+                                                                                                                                     |Issue Title: "RuntimeError: CUDA error: device-side assert triggered"
+                                                                                                                                     |Issue Link: "https://github.com/pytorch/pytorch/issues/27123"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"tesseract"                   |"https://github.com/tesseract-ocr/tesseract"                |1602                          |
+                                                                                                                                     |Issue Title: "tesseract parameter/cmd to reduce noise in the image"
+                                                                                                                                     |Issue Link: "https://github.com/tesseract-ocr/tesseract/issues/2670"
+                                                                                                                                     |Issue Title: "undefined reference to `UNICHARSET::CleanupString[abi:cxx11](char const*, unsigned long)'"
+                                                                                                                                     |Issue Link: "https://github.com/tesseract-ocr/tesseract/issues/2671"
+                                                                                                                                     |Issue Title: "Windows (x64) compiled executable (tesseract.exe) doesn't work in any other windows machine (x64)"
+                                                                                                                                     |Issue Link: "https://github.com/tesseract-ocr/tesseract/issues/2674"
+                                                                                                                                     |Issue Title: "Any docs on training tesseract with tensorflow in GPU?"
+                                                                                                                                     |Issue Link: "https://github.com/tesseract-ocr/tesseract/issues/2675"
+                                                                                                                                     |Issue Title: "Tesseract doesn’t accept pre-defined img"
+                                                                                                                                     |Issue Link: "https://github.com/tesseract-ocr/tesseract/issues/2676"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"caffe"                       |"https://github.com/BVLC/caffe"                             |4625                          |
+                                                                                                                                     |Issue Title: "/usr/bin/ld: cannot find -lcaffe"
+                                                                                                                                     |Issue Link: "https://github.com/BVLC/caffe/issues/6837"
+                                                                                                                                     |Issue Title: "Building matcaffe fails "
+                                                                                                                                     |Issue Link: "https://github.com/BVLC/caffe/issues/6839"
+                                                                                                                                     |Issue Title: "not support python3？"
+                                                                                                                                     |Issue Link: "https://github.com/BVLC/caffe/issues/6840"
+                                                                                                                                     |Issue Title: "docker"
+                                                                                                                                     |Issue Link: "https://github.com/BVLC/caffe/issues/6841"
+                                                                                                                                     |Issue Title: "error MSB6006 in installation"
+                                                                                                                                     |Issue Link: "https://github.com/BVLC/caffe/issues/6842"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"godot"                       |"https://github.com/godotengine/godot"                      |19450                         |
+                                                                                                                                     |Issue Title: "Custom Viewport children of 2D/3D type can't be locked"
+                                                                                                                                     |Issue Link: "https://github.com/godotengine/godot/issues/32446"
+                                                                                                                                     |Issue Title: "node.duplicate() function triggers set_name == \"\" error"
+                                                                                                                                     |Issue Link: "https://github.com/godotengine/godot/issues/32449"
+                                                                                                                                     |Issue Title: "orgin and grid get disapper's"
+                                                                                                                                     |Issue Link: "https://github.com/godotengine/godot/issues/32451"
+                                                                                                                                     |Issue Title: "set_translation not working but no error's and corrupt scene .scn"
+                                                                                                                                     |Issue Link: "https://github.com/godotengine/godot/issues/32452"
+                                                                                                                                     |Issue Title: "Platforms named directly in gles2"
+                                                                                                                                     |Issue Link: "https://github.com/godotengine/godot/issues/32455"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"grpc"                        |"https://github.com/grpc/grpc"                              |7614                          |
+                                                                                                                                     |Issue Title: "undefined symbol: __atomic_exchange_8"
+                                                                                                                                     |Issue Link: "https://github.com/grpc/grpc/issues/20400"
+                                                                                                                                     |Issue Title: "Grpc.Tools fails when used in a .NET Core 3.0 WPF project"
+                                                                                                                                     |Issue Link: "https://github.com/grpc/grpc/issues/20402"
+                                                                                                                                     |Issue Title: "C# NuGet package Grpc.HealthCheck does not implement Watch method"
+                                                                                                                                     |Issue Link: "https://github.com/grpc/grpc/issues/20403"
+                                                                                                                                     |Issue Title: "regression importing cygrpc grpc python 1.24.0"
+                                                                                                                                     |Issue Link: "https://github.com/grpc/grpc/issues/20404"
+                                                                                                                                     |Issue Title: "Inproc - ClientAsyncWriter::Write does not return false on CompletionQueue when stream is closed"
+                                                                                                                                     |Issue Link: "https://github.com/grpc/grpc/issues/20409"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"rethinkdb"                   |"https://github.com/rethinkdb/rethinkdb"                    |6188                          |
+                                                                                                                                     |Issue Title: "Cannot navigate on Rethinkdb Home Page"
+                                                                                                                                     |Issue Link: "https://github.com/rethinkdb/rethinkdb/issues/6762"
+                                                                                                                                     |Issue Title: "rethinkdb.errors.ReqlQueryLogicError: Primary key too long"
+                                                                                                                                     |Issue Link: "https://github.com/rethinkdb/rethinkdb/issues/6763"
+                                                                                                                                     |Issue Title: "update.rethinkdb.com SSL certificate has expired"
+                                                                                                                                     |Issue Link: "https://github.com/rethinkdb/rethinkdb/issues/6764"
+                                                                                                                                     |Issue Title: "Rethinkdb reads at 40K records per second"
+                                                                                                                                     |Issue Link: "https://github.com/rethinkdb/rethinkdb/issues/6765"
+                                                                                                                                     |Issue Title: "Add apache2 license to package.json"
+                                                                                                                                     |Issue Link: "https://github.com/rethinkdb/rethinkdb/issues/6766"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                 Latest Pull Requests in  cpp's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"tensorflow"                  |"https://github.com/tensorflow/tensorflow"                  |12417                         |
+                                                                                                                                     |PR Title: "[r1.15-CherryPick]:Fix the license copy code after the latest changes in windows libtensorflow build scripts."
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32929"
+                                                                                                                                     |PR Title: "[Intel MKL] Conditionally enabling bfloat16"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32931"
+                                                                                                                                     |PR Title: "Switch MatchingFilesDatasetTest to use TF combinations"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32934"
+                                                                                                                                     |PR Title: "[Intel MKL] Adding a unit test for MKL eager rewrite"
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32935"
+                                                                                                                                     |PR Title: "[r1.15-CherryPick]: Fix typo in libtensorflow cpu build."
+                                                                                                                                     |PR Link: "https://github.com/tensorflow/tensorflow/pull/32936"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"electron"                    |"https://github.com/electron/electron"                      |8673                          |
+                                                                                                                                     |PR Title: "fix: Make the `--disable-color-correct-rendering` switch work again (backport)"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20359"
+                                                                                                                                     |PR Title: "fix: restore rounded window corners for vibrant windows on Mac"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20360"
+                                                                                                                                     |PR Title: "feat: properly serialize NaN and infinite numbers in the remote module"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20366"
+                                                                                                                                     |PR Title: "docs: Update application-architecture.md"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20370"
+                                                                                                                                     |PR Title: "docs: WebContents console-message event is emitted for offscreen windows"
+                                                                                                                                     |PR Link: "https://github.com/electron/electron/pull/20386"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"terminal"                    |"https://github.com/microsoft/terminal"                     |595                           |
+                                                                                                                                     |PR Title: "Inbox"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2993"
+                                                                                                                                     |PR Title: "Update outdated FAQ"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2995"
+                                                                                                                                     |PR Title: "CUU and CUD should not move \"across\" margins."
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2996"
+                                                                                                                                     |PR Title: "Edits doc section: Starting Windows Terminal"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2998"
+                                                                                                                                     |PR Title: "Removes default issue titles"
+                                                                                                                                     |PR Link: "https://github.com/microsoft/terminal/pull/2999"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"swift"                       |"https://github.com/apple/swift"                            |27330                         |
+                                                                                                                                     |PR Title: "Merge tag 'swift-DEVELOPMENT-SNAPSHOT-2019-09-24-a' into tensorflow"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27452"
+                                                                                                                                     |PR Title: "Disable test/SILOptimizer/OSLogConstantEvaluableTest.swift."
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27453"
+                                                                                                                                     |PR Title: "Disable test/AutoDiff/transposing_attr_type_checking.swift."
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27454"
+                                                                                                                                     |PR Title: "Merge branch 'tensorflow' of github.com:apple/swift into tensorflow-merge"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27455"
+                                                                                                                                     |PR Title: "[tensorflow merge] fix qualified decl name parse"
+                                                                                                                                     |PR Link: "https://github.com/apple/swift/pull/27456"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"bitcoin"                     |"https://github.com/bitcoin/bitcoin"                        |11817                         |
+                                                                                                                                     |PR Title: "doc: Remove mention of renamed mapBlocksUnlinked"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/17001"
+                                                                                                                                     |PR Title: "chainparams: Bump assumed chain params"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/17002"
+                                                                                                                                     |PR Title: "script: Remove trailing whitespace on blank lines."
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/17003"
+                                                                                                                                     |PR Title: "validation: Remove REJECT code from CValidationState"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/17004"
+                                                                                                                                     |PR Title: "build: Qt version appears only if GUI is being built"
+                                                                                                                                     |PR Link: "https://github.com/bitcoin/bitcoin/pull/17005"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"opencv"                      |"https://github.com/opencv/opencv"                          |9833                          |
+                                                                                                                                     |PR Title: "imgproc: fix indexing issue in pyramids"
+                                                                                                                                     |PR Link: "https://github.com/opencv/opencv/pull/15600"
+                                                                                                                                     |PR Title: "core: fix UBSAN in softfloat"
+                                                                                                                                     |PR Link: "https://github.com/opencv/opencv/pull/15602"
+                                                                                                                                     |PR Title: "Change modules settings"
+                                                                                                                                     |PR Link: "https://github.com/opencv/opencv/pull/15608"
+                                                                                                                                     |PR Title: "Update loadsave.cpp"
+                                                                                                                                     |PR Link: "https://github.com/opencv/opencv/pull/15609"
+                                                                                                                                     |PR Title: "Fix autodetection of input size for dnn networks"
+                                                                                                                                     |PR Link: "https://github.com/opencv/opencv/pull/15611"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"protobuf"                    |"https://github.com/protocolbuffers/protobuf"               |3166                          |
+                                                                                                                                     |PR Title: "Update README.md"
+                                                                                                                                     |PR Link: "https://github.com/protocolbuffers/protobuf/pull/6708"
+                                                                                                                                     |PR Title: "Add option for dart"
+                                                                                                                                     |PR Link: "https://github.com/protocolbuffers/protobuf/pull/6709"
+                                                                                                                                     |PR Title: "Bazel: Bump java source and target language level to java 8"
+                                                                                                                                     |PR Link: "https://github.com/protocolbuffers/protobuf/pull/6711"
+                                                                                                                                     |PR Title: "Initialize well known type values"
+                                                                                                                                     |PR Link: "https://github.com/protocolbuffers/protobuf/pull/6713"
+                                                                                                                                     |PR Title: "Initialize well known type values (#6713)"
+                                                                                                                                     |PR Link: "https://github.com/protocolbuffers/protobuf/pull/6714"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"nw.js"                       |"https://github.com/nwjs/nw.js"                             |776                           |
+                                                                                                                                     |PR Title: "src: update for chromium.src about SetPageFocus()"
+                                                                                                                                     |PR Link: "https://github.com/nwjs/nw.js/pull/6990"
+                                                                                                                                     |PR Title: "fix bug#6985: losing touchstart event"
+                                                                                                                                     |PR Link: "https://github.com/nwjs/nw.js/pull/6992"
+                                                                                                                                     |PR Title: "fix bug#6985: losing touchend event"
+                                                                                                                                     |PR Link: "https://github.com/nwjs/nw.js/pull/6993"
+                                                                                                                                     |PR Title: "Improve code of example 2 in tutorial"
+                                                                                                                                     |PR Link: "https://github.com/nwjs/nw.js/pull/7021"
+                                                                                                                                     |PR Title: "Add VSCode Intellisense setup to FAQ"
+                                                                                                                                     |PR Link: "https://github.com/nwjs/nw.js/pull/7081"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"x64dbg"                      |"https://github.com/x64dbg/x64dbg"                          |508                           |
+                                                                                                                                     |PR Title: "Add CheckBox to automate Trace Over System Calls"
+                                                                                                                                     |PR Link: "https://github.com/x64dbg/x64dbg/pull/2199"
+                                                                                                                                     |PR Title: "GUI: #811 - Sidebar jump direction color differentiation."
+                                                                                                                                     |PR Link: "https://github.com/x64dbg/x64dbg/pull/2202"
+                                                                                                                                     |PR Title: "GUI: add ascii/unicode column on cpu stack widget"
+                                                                                                                                     |PR Link: "https://github.com/x64dbg/x64dbg/pull/2203"
+                                                                                                                                     |PR Title: "GUI: #1999 - Added restart required label for system font change"
+                                                                                                                                     |PR Link: "https://github.com/x64dbg/x64dbg/pull/2204"
+                                                                                                                                     |PR Title: "Some Code for you mrexodia"
+                                                                                                                                     |PR Link: "https://github.com/x64dbg/x64dbg/pull/2211"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"pytorch"                     |"https://github.com/pytorch/pytorch"                        |16605                         |
+                                                                                                                                     |PR Title: "Fix Windows CI for 1.3.0"
+                                                                                                                                     |PR Link: "https://github.com/pytorch/pytorch/pull/27120"
+                                                                                                                                     |PR Title: "Vectorize sinh and cosh on CPU."
+                                                                                                                                     |PR Link: "https://github.com/pytorch/pytorch/pull/27121"
+                                                                                                                                     |PR Title: "Add C++ torch::nn::functional::pdist"
+                                                                                                                                     |PR Link: "https://github.com/pytorch/pytorch/pull/27122"
+                                                                                                                                     |PR Title: "Ensure NCCL error handling code is disabled for NCCL versions < 2.4"
+                                                                                                                                     |PR Link: "https://github.com/pytorch/pytorch/pull/27124"
+                                                                                                                                     |PR Title: "[Reland] Fixed seek offset size to 64bit."
+                                                                                                                                     |PR Link: "https://github.com/pytorch/pytorch/pull/27125"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"tesseract"                   |"https://github.com/tesseract-ocr/tesseract"                |1071                          |
+                                                                                                                                     |PR Title: "Disable legacy build: Disable bitvec.h"
+                                                                                                                                     |PR Link: "https://github.com/tesseract-ocr/tesseract/pull/2667"
+                                                                                                                                     |PR Title: "Remove STRING from the public Tesseract API"
+                                                                                                                                     |PR Link: "https://github.com/tesseract-ocr/tesseract/pull/2668"
+                                                                                                                                     |PR Title: "Remove member functions STRING::string and StringParam::string"
+                                                                                                                                     |PR Link: "https://github.com/tesseract-ocr/tesseract/pull/2672"
+                                                                                                                                     |PR Title: "Fixed minor bug in ChoiceIterator when lstm_choice_mode isn't active."
+                                                                                                                                     |PR Link: "https://github.com/tesseract-ocr/tesseract/pull/2673"
+                                                                                                                                     |PR Title: "Remove vecfuncs.cpp and vecfunc.h"
+                                                                                                                                     |PR Link: "https://github.com/tesseract-ocr/tesseract/pull/2677"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"caffe"                       |"https://github.com/BVLC/caffe"                             |2201                          |
+                                                                                                                                     |PR Title: "Set flag to use c++11."
+                                                                                                                                     |PR Link: "https://github.com/BVLC/caffe/pull/6812"
+                                                                                                                                     |PR Title: "Vmod"
+                                                                                                                                     |PR Link: "https://github.com/BVLC/caffe/pull/6815"
+                                                                                                                                     |PR Title: "fix typo"
+                                                                                                                                     |PR Link: "https://github.com/BVLC/caffe/pull/6831"
+                                                                                                                                     |PR Title: "fix glog finder"
+                                                                                                                                     |PR Link: "https://github.com/BVLC/caffe/pull/6835"
+                                                                                                                                     |PR Title: "pythonpackage.yml"
+                                                                                                                                     |PR Link: "https://github.com/BVLC/caffe/pull/6838"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"godot"                       |"https://github.com/godotengine/godot"                      |12136                         |
+                                                                                                                                     |PR Title: "Fix for running the export templates with newer emscripten versions."
+                                                                                                                                     |PR Link: "https://github.com/godotengine/godot/pull/32448"
+                                                                                                                                     |PR Title: "Altered rotation_degrees range"
+                                                                                                                                     |PR Link: "https://github.com/godotengine/godot/pull/32450"
+                                                                                                                                     |PR Title: "added Scons modules #define generator"
+                                                                                                                                     |PR Link: "https://github.com/godotengine/godot/pull/32453"
+                                                                                                                                     |PR Title: "Optional Unix Socket disable for devices that do not support it"
+                                                                                                                                     |PR Link: "https://github.com/godotengine/godot/pull/32454"
+                                                                                                                                     |PR Title: "add past inspector opened drop box"
+                                                                                                                                     |PR Link: "https://github.com/godotengine/godot/pull/32456"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"grpc"                        |"https://github.com/grpc/grpc"                              |12789                         |
+                                                                                                                                     |PR Title: "Second attempt: Change transport connectivity watch API to not be lossy."
+                                                                                                                                     |PR Link: "https://github.com/grpc/grpc/pull/20408"
+                                                                                                                                     |PR Title: "Remove the license name so as to fix an internal warning."
+                                                                                                                                     |PR Link: "https://github.com/grpc/grpc/pull/20410"
+                                                                                                                                     |PR Title: "PHP: add various scenarios to test PECL extension"
+                                                                                                                                     |PR Link: "https://github.com/grpc/grpc/pull/20411"
+                                                                                                                                     |PR Title: "Update grpc_ssl_peer_to_auth_context() to take in transport security type as a parameter"
+                                                                                                                                     |PR Link: "https://github.com/grpc/grpc/pull/20412"
+                                                                                                                                     |PR Title: "Replaced gpr_tls with C++ thread_local"
+                                                                                                                                     |PR Link: "https://github.com/grpc/grpc/pull/20413"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"rethinkdb"                   |"https://github.com/rethinkdb/rethinkdb"                    |561                           |
+                                                                                                                                     |PR Title: "Cherry-pick tribool fix into 2.3.x"
+                                                                                                                                     |PR Link: "https://github.com/rethinkdb/rethinkdb/pull/6751"
+                                                                                                                                     |PR Title: "Change COPYRIGHT to LICENSE"
+                                                                                                                                     |PR Link: "https://github.com/rethinkdb/rethinkdb/pull/6756"
+                                                                                                                                     |PR Title: "Update CONTRIBUTING.md"
+                                                                                                                                     |PR Link: "https://github.com/rethinkdb/rethinkdb/pull/6757"
+                                                                                                                                     |PR Title: "Update README.md"
+                                                                                                                                     |PR Link: "https://github.com/rethinkdb/rethinkdb/pull/6758"
+                                                                                                                                     |PR Title: "Admin UI table viewer widget"
+                                                                                                                                     |PR Link: "https://github.com/rethinkdb/rethinkdb/pull/6767"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

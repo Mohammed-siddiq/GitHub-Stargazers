@@ -1,0 +1,393 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                              Top 15 starred repos for java language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"CS-Notes"                    |"https://github.com/CyC2018/CS-Notes"                       |25208     |0         |14        |441                 |4078      |78957     |338       |
+|2         |"JavaGuide"                   |"https://github.com/Snailclimb/JavaGuide"                   |18878     |0         |6         |280                 |3104      |56345     |209       |
+|3         |"java-design-patterns"        |"https://github.com/iluwatar/java-design-patterns"          |16682     |0         |40        |460                 |4038      |51553     |464       |
+|4         |"elasticsearch"               |"https://github.com/elastic/elasticsearch"                  |14939     |8         |1077      |25993               |2782      |44500     |21224     |
+|5         |"spring-boot"                 |"https://github.com/spring-projects/spring-boot"            |27015     |36        |696       |3697                |3323      |42198     |14701     |
+|6         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |6830      |180       |100       |3253                |2375      |40625     |2776      |
+|7         |"interviews"                  |"https://github.com/kdn251/interviews"                      |8120      |0         |3         |103                 |2246      |39052     |36        |
+|8         |"okhttp"                      |"https://github.com/square/okhttp"                          |7526      |0         |148       |2613                |1666      |34488     |2824      |
+|9         |"guava"                       |"https://github.com/google/guava"                           |7574      |27        |250       |518                 |2465      |33977     |3024      |
+|10        |"retrofit"                    |"https://github.com/square/retrofit"                        |6258      |27        |92        |956                 |1613      |33804     |2253      |
+|11        |"spring-framework"            |"https://github.com/spring-projects/spring-framework"       |21231     |160       |517       |2453                |3419      |32591     |18606     |
+|12        |"advanced-java"               |"https://github.com/doocs/advanced-java"                    |8387      |0         |7         |44                  |1699      |31590     |68        |
+|13        |"dubbo"                       |"https://github.com/apache/dubbo"                           |19260     |21        |121       |2230                |3255      |29357     |2887      |
+|14        |"lottie-android"              |"https://github.com/airbnb/lottie-android"                  |4277      |20        |20        |376                 |828       |26957     |1017      |
+|15        |"proxyee-down"                |"https://github.com/proxyee-down-org/proxyee-down"          |4575      |49        |7         |33                  |980       |25032     |0         |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                        Latest Issues in java's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"CS-Notes"                    |"https://github.com/CyC2018/CS-Notes"                       |338                           |
+                                                                                                                                     |Issue Title: "Leetcode题解的位运算基本原理部分"
+                                                                                                                                     |Issue Link: "https://github.com/CyC2018/CS-Notes/issues/789"
+                                                                                                                                     |Issue Title: "Innodb中update的时候后查询的问题？"
+                                                                                                                                     |Issue Link: "https://github.com/CyC2018/CS-Notes/issues/792"
+                                                                                                                                     |Issue Title: "关于HTTPS章节的可能性笔误"
+                                                                                                                                     |Issue Link: "https://github.com/CyC2018/CS-Notes/issues/794"
+                                                                                                                                     |Issue Title: "剑值offer跳台阶迭代解法时result的初始值"
+                                                                                                                                     |Issue Link: "https://github.com/CyC2018/CS-Notes/issues/795"
+                                                                                                                                     |Issue Title: "LeetCode bfs 1. 计算在网格中从原点到特定点的最短路径长度 感觉有问题"
+                                                                                                                                     |Issue Link: "https://github.com/CyC2018/CS-Notes/issues/796"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"JavaGuide"                   |"https://github.com/Snailclimb/JavaGuide"                   |209                           |
+                                                                                                                                     |Issue Title: "想问下Spring Boot，MyBatis，SpringCloud这些框架有整理吗？"
+                                                                                                                                     |Issue Link: "https://github.com/Snailclimb/JavaGuide/issues/483"
+                                                                                                                                     |Issue Title: "分布式事务解决方案"
+                                                                                                                                     |Issue Link: "https://github.com/Snailclimb/JavaGuide/issues/484"
+                                                                                                                                     |Issue Title: "为什么重写equals时必须重写hashCode方法"
+                                                                                                                                     |Issue Link: "https://github.com/Snailclimb/JavaGuide/issues/487"
+                                                                                                                                     |Issue Title: "为什么微服务的篇幅全都是Spring Cloud, 为什么它会成为微服务的准则和未来的趋势? "
+                                                                                                                                     |Issue Link: "https://github.com/Snailclimb/JavaGuide/issues/488"
+                                                                                                                                     |Issue Title: "Who stole my time？"
+                                                                                                                                     |Issue Link: "https://github.com/Snailclimb/JavaGuide/issues/489"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"java-design-patterns"        |"https://github.com/iluwatar/java-design-patterns"          |464                           |
+                                                                                                                                     |Issue Title: "Tests failing in Twin module."
+                                                                                                                                     |Issue Link: "https://github.com/iluwatar/java-design-patterns/issues/922"
+                                                                                                                                     |Issue Title: "How to implement abstract document pattern in golang"
+                                                                                                                                     |Issue Link: "https://github.com/iluwatar/java-design-patterns/issues/924"
+                                                                                                                                     |Issue Title: "Need to update doc/code for adapter pattern"
+                                                                                                                                     |Issue Link: "https://github.com/iluwatar/java-design-patterns/issues/925"
+                                                                                                                                     |Issue Title: "half-sync-half-async pattern need to enhance"
+                                                                                                                                     |Issue Link: "https://github.com/iluwatar/java-design-patterns/issues/929"
+                                                                                                                                     |Issue Title: "Github reports security vulnerabilities"
+                                                                                                                                     |Issue Link: "https://github.com/iluwatar/java-design-patterns/issues/933"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"elasticsearch"               |"https://github.com/elastic/elasticsearch"                  |21224                         |
+                                                                                                                                     |Issue Title: "[DOCS] Make 'node type' documentation more readable"
+                                                                                                                                     |Issue Link: "https://github.com/elastic/elasticsearch/issues/47292"
+                                                                                                                                     |Issue Title: "Delete by Query API should not support text field queries by default"
+                                                                                                                                     |Issue Link: "https://github.com/elastic/elasticsearch/issues/47314"
+                                                                                                                                     |Issue Title: "Format parameter for Date Histogram over Range Fields"
+                                                                                                                                     |Issue Link: "https://github.com/elastic/elasticsearch/issues/47323"
+                                                                                                                                     |Issue Title: "CloseIndexIT.testRelocatedClosedIndexIssue failures on CI"
+                                                                                                                                     |Issue Link: "https://github.com/elastic/elasticsearch/issues/47330"
+                                                                                                                                     |Issue Title: "Deprecate and replace old Index privileges related to indexing documents"
+                                                                                                                                     |Issue Link: "https://github.com/elastic/elasticsearch/issues/47333"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"spring-boot"                 |"https://github.com/spring-projects/spring-boot"            |14701                         |
+                                                                                                                                     |Issue Title: "Add Mustache to 'Customize ViewResolvers' docs section"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-boot/issues/18437"
+                                                                                                                                     |Issue Title: "Upgrade to Spring REST Docs 2.0.4.RELEASE"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-boot/issues/18439"
+                                                                                                                                     |Issue Title: "@ConfigurationProperties does not work on @Bean methods when metadata caching is disabled on the bean factory"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-boot/issues/18440"
+                                                                                                                                     |Issue Title: "Upgrade to Spring Plugin 2.0.0.RELEASE"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-boot/issues/18441"
+                                                                                                                                     |Issue Title: "MetricsWebClientFilterFunction doesn't handle timeout"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-boot/issues/18444"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |2776                          |
+                                                                                                                                     |Issue Title: "Single.errror(new Exception()) in onErrorResumeNext creates RuntimeException"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6654"
+                                                                                                                                     |Issue Title: "How to stay subscribed *while* certain types of events are emitted?"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6655"
+                                                                                                                                     |Issue Title: "VerifyError on Observable.zipArray"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6656"
+                                                                                                                                     |Issue Title: "2.2.13 release preparations"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6658"
+                                                                                                                                     |Issue Title: "Completable.delay does not respect delayError=false"
+                                                                                                                                     |Issue Link: "https://github.com/ReactiveX/RxJava/issues/6659"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"interviews"                  |"https://github.com/kdn251/interviews"                      |36                            |
+                                                                                                                                     |Issue Title: "How did you guys visualize all those algorithms?"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/123"
+                                                                                                                                     |Issue Title: "leetcode/array/LongestConsecutiveSequence.java"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/124"
+                                                                                                                                     |Issue Title: "Hi ValidParentheses.java "
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/125"
+                                                                                                                                     |Issue Title: "Open a catalog：interviews/company/Alibaba"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/127"
+                                                                                                                                     |Issue Title: "Master is not compiling, Missing import statements(Java 8)"
+                                                                                                                                     |Issue Link: "https://github.com/kdn251/interviews/issues/129"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"okhttp"                      |"https://github.com/square/okhttp"                          |2824                          |
+                                                                                                                                     |Issue Title: "Test to confirm that header names are not trimmed"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5500"
+                                                                                                                                     |Issue Title: "Upgrading to OkHttp 4.20 from 3.11.0 (cannot access url it is public/*package*/ in Request)"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5505"
+                                                                                                                                     |Issue Title: "NullPointerException: realConnectionPool"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5506"
+                                                                                                                                     |Issue Title: "TaskRunner tracking bug"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5512"
+                                                                                                                                     |Issue Title: "Protocol Upgrade Mechanism in okHttp Interceptors"
+                                                                                                                                     |Issue Link: "https://github.com/square/okhttp/issues/5514"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"guava"                       |"https://github.com/google/guava"                           |3024                          |
+                                                                                                                                     |Issue Title: "why guava not split into some maven modules?"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3619"
+                                                                                                                                     |Issue Title: "Consider FluentFuture as a return type for some methods"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3620"
+                                                                                                                                     |Issue Title: "Recommend that maven-shade-plugin users also change Guava class names"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3624"
+                                                                                                                                     |Issue Title: "Why ImmutableSortedSet use comparator to determine equals?"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3625"
+                                                                                                                                     |Issue Title: "MediaType::toString can produce unparsable results"
+                                                                                                                                     |Issue Link: "https://github.com/google/guava/issues/3626"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"retrofit"                    |"https://github.com/square/retrofit"                        |2253                          |
+                                                                                                                                     |Issue Title: "Stream bodies from first-party converters"
+                                                                                                                                     |Issue Link: "https://github.com/square/retrofit/issues/3215"
+                                                                                                                                     |Issue Title: "Provide a way to display percentage progress while uploading files"
+                                                                                                                                     |Issue Link: "https://github.com/square/retrofit/issues/3216"
+                                                                                                                                     |Issue Title: "Build Failing version 2.6.1"
+                                                                                                                                     |Issue Link: "https://github.com/square/retrofit/issues/3217"
+                                                                                                                                     |Issue Title: "Connect to file url without response body"
+                                                                                                                                     |Issue Link: "https://github.com/square/retrofit/issues/3218"
+                                                                                                                                     |Issue Title: "StreamResetException: stream was reset: CANCEL"
+                                                                                                                                     |Issue Link: "https://github.com/square/retrofit/issues/3219"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"spring-framework"            |"https://github.com/spring-projects/spring-framework"       |18606                         |
+                                                                                                                                     |Issue Title: "ScopedProxyMode affect to  bean scope"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-framework/issues/23725"
+                                                                                                                                     |Issue Title: "Remove TODO in AnnotationUtils"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-framework/issues/23727"
+                                                                                                                                     |Issue Title: "Spring data bug throwing java.lang.LinkageError exceptions"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-framework/issues/23730"
+                                                                                                                                     |Issue Title: "how to getbean in a static method"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-framework/issues/23731"
+                                                                                                                                     |Issue Title: "bug  WebClient Header cannot upadte in org.springframework.http.codec.HttpMessageWriter"
+                                                                                                                                     |Issue Link: "https://github.com/spring-projects/spring-framework/issues/23734"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"advanced-java"               |"https://github.com/doocs/advanced-java"                    |68                            |
+                                                                                                                                     |Issue Title: "关于《如何保证缓存与数据库的双写一致性？》的讨论"
+                                                                                                                                     |Issue Link: "https://github.com/doocs/advanced-java/issues/102"
+                                                                                                                                     |Issue Title: "关于《JVM内部队列》的疑惑"
+                                                                                                                                     |Issue Link: "https://github.com/doocs/advanced-java/issues/107"
+                                                                                                                                     |Issue Title: "感谢名单 | Thank you all"
+                                                                                                                                     |Issue Link: "https://github.com/doocs/advanced-java/issues/109"
+                                                                                                                                     |Issue Title: "启动后报错，控制台很多乱码"
+                                                                                                                                     |Issue Link: "https://github.com/doocs/advanced-java/issues/110"
+                                                                                                                                     |Issue Title: "启动后在浏览器访问127.0.0.1出来的是phpStudy的页面（半集成安装方式）"
+                                                                                                                                     |Issue Link: "https://github.com/doocs/advanced-java/issues/111"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"dubbo"                       |"https://github.com/apache/dubbo"                           |2887                          |
+                                                                                                                                     |Issue Title: "[Refactor] Remove the source code from alibaba/spring-context-support"
+                                                                                                                                     |Issue Link: "https://github.com/apache/dubbo/issues/5127"
+                                                                                                                                     |Issue Title: "dubbo-demo-provider 项目没有找到，是换地方了吗"
+                                                                                                                                     |Issue Link: "https://github.com/apache/dubbo/issues/5128"
+                                                                                                                                     |Issue Title: "Restart the Dubbo service provider, Dubbo consumers have not been able to invoke the service"
+                                                                                                                                     |Issue Link: "https://github.com/apache/dubbo/issues/5129"
+                                                                                                                                     |Issue Title: "Use LFU cache strategy in dubbo"
+                                                                                                                                     |Issue Link: "https://github.com/apache/dubbo/issues/5130"
+                                                                                                                                     |Issue Title: "对动态修改后的类不能正常创建wrapper类"
+                                                                                                                                     |Issue Link: "https://github.com/apache/dubbo/issues/5131"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"lottie-android"              |"https://github.com/airbnb/lottie-android"                  |1017                          |
+                                                                                                                                     |Issue Title: "SDK=28"
+                                                                                                                                     |Issue Link: "https://github.com/airbnb/lottie-android/issues/1394"
+                                                                                                                                     |Issue Title: "Add LottieView.setMinAndMaxFrame(startMarkerName: String, endMarkerName: String)"
+                                                                                                                                     |Issue Link: "https://github.com/airbnb/lottie-android/issues/1395"
+                                                                                                                                     |Issue Title: "TextLayers don't combine unicode combining characters"
+                                                                                                                                     |Issue Link: "https://github.com/airbnb/lottie-android/issues/1396"
+                                                                                                                                     |Issue Title: "Does Lottie support play voice ?"
+                                                                                                                                     |Issue Link: "https://github.com/airbnb/lottie-android/issues/1398"
+                                                                                                                                     |Issue Title: "regarding make lottie library"
+                                                                                                                                     |Issue Link: "https://github.com/airbnb/lottie-android/issues/1399"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"proxyee-down"                |"https://github.com/proxyee-down-org/proxyee-down"          |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                Latest Pull Requests in  java's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"CS-Notes"                    |"https://github.com/CyC2018/CS-Notes"                       |441                           |
+                                                                                                                                     |PR Title: "间隙锁前开后闭"
+                                                                                                                                     |PR Link: "https://github.com/CyC2018/CS-Notes/pull/785"
+                                                                                                                                     |PR Title: "modify the description"
+                                                                                                                                     |PR Link: "https://github.com/CyC2018/CS-Notes/pull/786"
+                                                                                                                                     |PR Title: "修正Leetcode题解的位运算基本原理部分的描述错误"
+                                                                                                                                     |PR Link: "https://github.com/CyC2018/CS-Notes/pull/790"
+                                                                                                                                     |PR Title: "Update 数据库系统原理.md"
+                                                                                                                                     |PR Link: "https://github.com/CyC2018/CS-Notes/pull/791"
+                                                                                                                                     |PR Title: "remove unexpected spaces"
+                                                                                                                                     |PR Link: "https://github.com/CyC2018/CS-Notes/pull/793"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"JavaGuide"                   |"https://github.com/Snailclimb/JavaGuide"                   |280                           |
+                                                                                                                                     |PR Title: "错别字勘误"
+                                                                                                                                     |PR Link: "https://github.com/Snailclimb/JavaGuide/pull/478"
+                                                                                                                                     |PR Title: "Test Backtracking NQueens"
+                                                                                                                                     |PR Link: "https://github.com/Snailclimb/JavaGuide/pull/481"
+                                                                                                                                     |PR Title: "Update 一千行MySQL命令.md"
+                                                                                                                                     |PR Link: "https://github.com/Snailclimb/JavaGuide/pull/485"
+                                                                                                                                     |PR Title: "Update 数据结构.md"
+                                                                                                                                     |PR Link: "https://github.com/Snailclimb/JavaGuide/pull/486"
+                                                                                                                                     |PR Title: "错别字更改"
+                                                                                                                                     |PR Link: "https://github.com/Snailclimb/JavaGuide/pull/490"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"java-design-patterns"        |"https://github.com/iluwatar/java-design-patterns"          |460                           |
+                                                                                                                                     |PR Title: "Merge pull request #1 from iluwatar/master"
+                                                                                                                                     |PR Link: "https://github.com/iluwatar/java-design-patterns/pull/928"
+                                                                                                                                     |PR Title: "Merge pull request #1 from iluwatar/master"
+                                                                                                                                     |PR Link: "https://github.com/iluwatar/java-design-patterns/pull/930"
+                                                                                                                                     |PR Title: "fixed bug #929"
+                                                                                                                                     |PR Link: "https://github.com/iluwatar/java-design-patterns/pull/931"
+                                                                                                                                     |PR Title: "Bump camel.version from 2.16.1 to 2.24.2"
+                                                                                                                                     |PR Link: "https://github.com/iluwatar/java-design-patterns/pull/932"
+                                                                                                                                     |PR Title: "Merge pull request #1 from iluwatar/master"
+                                                                                                                                     |PR Link: "https://github.com/iluwatar/java-design-patterns/pull/934"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"elasticsearch"               |"https://github.com/elastic/elasticsearch"                  |25993                         |
+                                                                                                                                     |PR Title: "[7.3] Adjust randomization in cluster shard limit tests (#47254)"
+                                                                                                                                     |PR Link: "https://github.com/elastic/elasticsearch/pull/47329"
+                                                                                                                                     |PR Title: "Add link to upgrading clusters to ccr"
+                                                                                                                                     |PR Link: "https://github.com/elastic/elasticsearch/pull/47331"
+                                                                                                                                     |PR Title: "Remove extra spaces from JSON"
+                                                                                                                                     |PR Link: "https://github.com/elastic/elasticsearch/pull/47332"
+                                                                                                                                     |PR Title: "Change interval notation to plain english"
+                                                                                                                                     |PR Link: "https://github.com/elastic/elasticsearch/pull/47334"
+                                                                                                                                     |PR Title: "Cancel ephemeral task on assignment conflict"
+                                                                                                                                     |PR Link: "https://github.com/elastic/elasticsearch/pull/47335"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"spring-boot"                 |"https://github.com/spring-projects/spring-boot"            |3697                          |
+                                                                                                                                     |PR Title: "Simplify code"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-boot/pull/18438"
+                                                                                                                                     |PR Title: "Remove prohibited version of Maven Invoker Plugin"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-boot/pull/18442"
+                                                                                                                                     |PR Title: "Move the JUnit 4 support to Surefire and Failsafe"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-boot/pull/18443"
+                                                                                                                                     |PR Title: "Fix comment position in ZipHeaderPeekInputStreamTests"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-boot/pull/18445"
+                                                                                                                                     |PR Title: "Upgrade to Testcontainers 1.12.2"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-boot/pull/18446"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"RxJava"                      |"https://github.com/ReactiveX/RxJava"                       |3253                          |
+                                                                                                                                     |PR Title: "3.x: Fix takeLast(time) last events time window calculation."
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6648"
+                                                                                                                                     |PR Title: "3.x: constrain upstream requests from take, remove limit operator"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6650"
+                                                                                                                                     |PR Title: "3.x: Fix size+time bound window not creating windows properly"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6652"
+                                                                                                                                     |PR Title: "2.x: Fix takeLast(time) last events time window calculation."
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6653"
+                                                                                                                                     |PR Title: "2.x: Fix size+time bound window not creating windows properly"
+                                                                                                                                     |PR Link: "https://github.com/ReactiveX/RxJava/pull/6657"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"interviews"                  |"https://github.com/kdn251/interviews"                      |103                           |
+                                                                                                                                     |PR Title: "For study"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/136"
+                                                                                                                                     |PR Title: "TestForStudy.java"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/137"
+                                                                                                                                     |PR Title: "please, accept my pull request, thank you"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/138"
+                                                                                                                                     |PR Title: "ghjk"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/139"
+                                                                                                                                     |PR Title: "Update AddDigits.java"
+                                                                                                                                     |PR Link: "https://github.com/kdn251/interviews/pull/140"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"okhttp"                      |"https://github.com/square/okhttp"                          |2613                          |
+                                                                                                                                     |PR Title: "Rewrite Dokka-generated markdown to include titles."
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5508"
+                                                                                                                                     |PR Title: "Add Kotlin listings for OkHttp recipes doc"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5509"
+                                                                                                                                     |PR Title: "Use TaskRunner in web sockets."
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5510"
+                                                                                                                                     |PR Title: "WIP: Android Certificate Check"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5511"
+                                                                                                                                     |PR Title: "Change HTTP/2 connections to track settings snapshots"
+                                                                                                                                     |PR Link: "https://github.com/square/okhttp/pull/5513"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"guava"                       |"https://github.com/google/guava"                           |518                           |
+                                                                                                                                     |PR Title: "Some code can be simplified"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3622"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3623"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3627"
+                                                                                                                                     |PR Title: "Update errorprone to 2.3.3"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3628"
+                                                                                                                                     |PR Title: "Moe Sync"
+                                                                                                                                     |PR Link: "https://github.com/google/guava/pull/3629"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"retrofit"                    |"https://github.com/square/retrofit"                        |956                           |
+                                                                                                                                     |PR Title: "Avoid synchronous checked exceptions in 'suspend fun's"
+                                                                                                                                     |PR Link: "https://github.com/square/retrofit/pull/3183"
+                                                                                                                                     |PR Title: "support fastjson,add converter-fastjson.Thanks"
+                                                                                                                                     |PR Link: "https://github.com/square/retrofit/pull/3184"
+                                                                                                                                     |PR Title: "同步原仓库代码"
+                                                                                                                                     |PR Link: "https://github.com/square/retrofit/pull/3186"
+                                                                                                                                     |PR Title: "Changed the License"
+                                                                                                                                     |PR Link: "https://github.com/square/retrofit/pull/3190"
+                                                                                                                                     |PR Title: "Add synchronous exception workaround for Response requests"
+                                                                                                                                     |PR Link: "https://github.com/square/retrofit/pull/3209"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"spring-framework"            |"https://github.com/spring-projects/spring-framework"       |2453                          |
+                                                                                                                                     |PR Title: "Fix typo in DispatcherServlet Javadoc"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-framework/pull/23726"
+                                                                                                                                     |PR Title: "Updates rsocket to 1.0.0-RC5"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-framework/pull/23728"
+                                                                                                                                     |PR Title: "Fix spring-core jar task 'up-to-date'-ness"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-framework/pull/23729"
+                                                                                                                                     |PR Title: "ClientRequest show mutable ,because HttpMessageWriter need add a head…"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-framework/pull/23732"
+                                                                                                                                     |PR Title: "cannot readOnly, developer need add HttpHeader in org.springframework…"
+                                                                                                                                     |PR Link: "https://github.com/spring-projects/spring-framework/pull/23733"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"advanced-java"               |"https://github.com/doocs/advanced-java"                    |44                            |
+                                                                                                                                     |PR Title: "add an article "
+                                                                                                                                     |PR Link: "https://github.com/doocs/advanced-java/pull/105"
+                                                                                                                                     |PR Title: "Merge pull request #1 from doocs/master"
+                                                                                                                                     |PR Link: "https://github.com/doocs/advanced-java/pull/106"
+                                                                                                                                     |PR Title: "Merge pull request #1 from doocs/master"
+                                                                                                                                     |PR Link: "https://github.com/doocs/advanced-java/pull/108"
+                                                                                                                                     |PR Title: "update README"
+                                                                                                                                     |PR Link: "https://github.com/doocs/advanced-java/pull/112"
+                                                                                                                                     |PR Title: "alter translation of monolithic"
+                                                                                                                                     |PR Link: "https://github.com/doocs/advanced-java/pull/113"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"dubbo"                       |"https://github.com/apache/dubbo"                           |2230                          |
+                                                                                                                                     |PR Title: "Add back try-catch clause deleted in #4899."
+                                                                                                                                     |PR Link: "https://github.com/apache/dubbo/pull/5110"
+                                                                                                                                     |PR Title: "refactor some string operations with StringUtils"
+                                                                                                                                     |PR Link: "https://github.com/apache/dubbo/pull/5112"
+                                                                                                                                     |PR Title: "Update ConditionRouter.java"
+                                                                                                                                     |PR Link: "https://github.com/apache/dubbo/pull/5123"
+                                                                                                                                     |PR Title: "[Dubbo-5125] 修复provider在网络波动恢复后，无法正确恢复在zookeeper的注册信息 #5125"
+                                                                                                                                     |PR Link: "https://github.com/apache/dubbo/pull/5126"
+                                                                                                                                     |PR Title: "Polish apache/dubbo#5127 : [Refactor] Remove the source code from ali…"
+                                                                                                                                     |PR Link: "https://github.com/apache/dubbo/pull/5132"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"lottie-android"              |"https://github.com/airbnb/lottie-android"                  |376                           |
+                                                                                                                                     |PR Title: "Fix progress calculation logic with time-remapped layer"
+                                                                                                                                     |PR Link: "https://github.com/airbnb/lottie-android/pull/1368"
+                                                                                                                                     |PR Title: "Fix rounding-off error on progress calculation with time-remapped layer"
+                                                                                                                                     |PR Link: "https://github.com/airbnb/lottie-android/pull/1372"
+                                                                                                                                     |PR Title: "Prevent software rendering from getting overwritten"
+                                                                                                                                     |PR Link: "https://github.com/airbnb/lottie-android/pull/1377"
+                                                                                                                                     |PR Title: "resizing bitmap function as per issue #1380"
+                                                                                                                                     |PR Link: "https://github.com/airbnb/lottie-android/pull/1385"
+                                                                                                                                     |PR Title: "Early return for GammaEvaluator.evaluate()"
+                                                                                                                                     |PR Link: "https://github.com/airbnb/lottie-android/pull/1397"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"proxyee-down"                |"https://github.com/proxyee-down-org/proxyee-down"          |33                            |
+                                                                                                                                     |PR Title: "update documents about compile"
+                                                                                                                                     |PR Link: "https://github.com/proxyee-down-org/proxyee-down/pull/1032"
+                                                                                                                                     |PR Title: "Merge pull request #1 from proxyee-down-org/master"
+                                                                                                                                     |PR Link: "https://github.com/proxyee-down-org/proxyee-down/pull/1038"
+                                                                                                                                     |PR Title: "Tweak the interaction area and add tooltips"
+                                                                                                                                     |PR Link: "https://github.com/proxyee-down-org/proxyee-down/pull/1083"
+                                                                                                                                     |PR Title: "之前安装过idm类似的插件（油猴），但是每天都有限制，现在使用这个有问题！"
+                                                                                                                                     |PR Link: "https://github.com/proxyee-down-org/proxyee-down/pull/1302"
+                                                                                                                                     |PR Title: "如何在Github快速下载文件应用"
+                                                                                                                                     |PR Link: "https://github.com/proxyee-down-org/proxyee-down/pull/1303"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

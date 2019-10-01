@@ -1,0 +1,363 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                 Top 15 starred repos for c language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"linux"                       |"https://github.com/torvalds/linux"                         |28226     |0         |1104      |698                 |6797      |80891     |0         |
+|2         |"netdata"                     |"https://github.com/netdata/netdata"                        |3727      |24        |71        |2918                |1353      |41404     |4048      |
+|3         |"redis"                       |"https://github.com/antirez/redis"                          |15140     |0         |510       |2565                |2750      |38936     |3802      |
+|4         |"git"                         |"https://github.com/git/git"                                |17064     |0         |676       |583                 |2148      |29513     |0         |
+|5         |"php-src"                     |"https://github.com/php/php-src"                            |5726      |0         |2876      |4755                |1529      |25012     |0         |
+|6         |"ijkplayer"                   |"https://github.com/bilibili/ijkplayer"                     |6471      |0         |36        |184                 |1199      |24686     |4679      |
+|7         |"wrk"                         |"https://github.com/wg/wrk"                                 |1812      |0         |1         |106                 |715       |21946     |294       |
+|8         |"scrcpy"                      |"https://github.com/Genymobile/scrcpy"                      |1619      |12        |8         |63                  |501       |19235     |769       |
+|9         |"the_silver_searcher"         |"https://github.com/ggreer/the_silver_searcher"             |1117      |0         |46        |629                 |430       |18801     |714       |
+|10        |"How-to-Make-a-Computer-Operating-System"|"https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System"|3198      |1         |13        |90                  |1690      |18311     |62        |
+|11        |"The-Art-Of-Programming-By-July"|"https://github.com/julycoding/The-Art-Of-Programming-By-July"|6787      |0         |20        |341                 |1895      |18101     |127       |
+|12        |"FFmpeg"                      |"https://github.com/FFmpeg/FFmpeg"                          |6048      |11        |269       |317                 |1140      |16767     |0         |
+|13        |"os-tutorial"                 |"https://github.com/cfenollosa/os-tutorial"                 |1814      |0         |3         |62                  |788       |16306     |62        |
+|14        |"jq"                          |"https://github.com/stedolan/jq"                            |885       |9         |28        |430                 |299       |15354     |1551      |
+|15        |"tmux"                        |"https://github.com/tmux/tmux"                              |1022      |25        |241       |293                 |424       |15181     |1630      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                           Latest Issues in c's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"linux"                       |"https://github.com/torvalds/linux"                         |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"netdata"                     |"https://github.com/netdata/netdata"                        |4048                          |
+                                                                                                                                     |Issue Title: "Why netdata kickstart installer don't create systemd netdata file in docker ubuntu systemd image?"
+                                                                                                                                     |Issue Link: "https://github.com/netdata/netdata/issues/6971"
+                                                                                                                                     |Issue Title: "chart name and nav bar/menu name wrapping"
+                                                                                                                                     |Issue Link: "https://github.com/netdata/netdata/issues/6972"
+                                                                                                                                     |Issue Title: "Samsung SSD 860 QVO 1TB: sem sensor"
+                                                                                                                                     |Issue Link: "https://github.com/netdata/netdata/issues/6973"
+                                                                                                                                     |Issue Title: "Statsd metric with single value does not get sent to backend : is it the expected beahavior ?"
+                                                                                                                                     |Issue Link: "https://github.com/netdata/netdata/issues/6974"
+                                                                                                                                     |Issue Title: "Notifications use goto-host-from-alarm even if private registry is in use"
+                                                                                                                                     |Issue Link: "https://github.com/netdata/netdata/issues/6975"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"redis"                       |"https://github.com/antirez/redis"                          |3802                          |
+                                                                                                                                     |Issue Title: "why object refcount key return alway value is 1??how do not 1?"
+                                                                                                                                     |Issue Link: "https://github.com/antirez/redis/issues/6413"
+                                                                                                                                     |Issue Title: "protected mode enabled and err reporting from sentinel"
+                                                                                                                                     |Issue Link: "https://github.com/antirez/redis/issues/6414"
+                                                                                                                                     |Issue Title: "Add an easy way to cleanup acked stream messages"
+                                                                                                                                     |Issue Link: "https://github.com/antirez/redis/issues/6415"
+                                                                                                                                     |Issue Title: "redis cluster state becomes fail after time jumped"
+                                                                                                                                     |Issue Link: "https://github.com/antirez/redis/issues/6416"
+                                                                                                                                     |Issue Title: "GEORADIUS reply regression with RESP3 changes"
+                                                                                                                                     |Issue Link: "https://github.com/antirez/redis/issues/6417"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"git"                         |"https://github.com/git/git"                                |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"php-src"                     |"https://github.com/php/php-src"                            |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"ijkplayer"                   |"https://github.com/bilibili/ijkplayer"                     |4679                          |
+                                                                                                                                     |Issue Title: "播放rtmp类型的历史视频流的时候，跳放会直接卡死在操作前的那个画面，跳放失败"
+                                                                                                                                     |Issue Link: "https://github.com/bilibili/ijkplayer/issues/4867"
+                                                                                                                                     |Issue Title: "切换视频时出现第一个未销毁存在于后台播放声音但是第二个已经开始播放了"
+                                                                                                                                     |Issue Link: "https://github.com/bilibili/ijkplayer/issues/4868"
+                                                                                                                                     |Issue Title: "ibrary not found for -lcrypto"
+                                                                                                                                     |Issue Link: "https://github.com/bilibili/ijkplayer/issues/4869"
+                                                                                                                                     |Issue Title: "为什么我在6SP上面设置的缩放模式没有效果 切换的时候 但是在XR上都有效果 在6s上也有是不是这个缩放模式有什么限制的呀 各位大佬知道的和我说说呗"
+                                                                                                                                     |Issue Link: "https://github.com/bilibili/ijkplayer/issues/4870"
+                                                                                                                                     |Issue Title: "支持M3U8文件的H265格式的播放吗?"
+                                                                                                                                     |Issue Link: "https://github.com/bilibili/ijkplayer/issues/4871"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"wrk"                         |"https://github.com/wg/wrk"                                 |294                           |
+                                                                                                                                     |Issue Title: "add method as a parameter"
+                                                                                                                                     |Issue Link: "https://github.com/wg/wrk/issues/397"
+                                                                                                                                     |Issue Title: "Is it possible to cancel within lua request() function?"
+                                                                                                                                     |Issue Link: "https://github.com/wg/wrk/issues/398"
+                                                                                                                                     |Issue Title: "coredump when thread:set table"
+                                                                                                                                     |Issue Link: "https://github.com/wg/wrk/issues/399"
+                                                                                                                                     |Issue Title: "[question] support unix domain socket?"
+                                                                                                                                     |Issue Link: "https://github.com/wg/wrk/issues/400"
+                                                                                                                                     |Issue Title: "How to pressure test websocket？"
+                                                                                                                                     |Issue Link: "https://github.com/wg/wrk/issues/401"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"scrcpy"                      |"https://github.com/Genymobile/scrcpy"                      |769                           |
+                                                                                                                                     |Issue Title: "Choppy performance redmi note 7"
+                                                                                                                                     |Issue Link: "https://github.com/Genymobile/scrcpy/issues/828"
+                                                                                                                                     |Issue Title: "HIDPI support broken on Macos builds"
+                                                                                                                                     |Issue Link: "https://github.com/Genymobile/scrcpy/issues/829"
+                                                                                                                                     |Issue Title: "Different aspect ratio on device and PC"
+                                                                                                                                     |Issue Link: "https://github.com/Genymobile/scrcpy/issues/830"
+                                                                                                                                     |Issue Title: "adb device unauthorized"
+                                                                                                                                     |Issue Link: "https://github.com/Genymobile/scrcpy/issues/831"
+                                                                                                                                     |Issue Title: "Flipped display [ZTE Blade V7 Lite]"
+                                                                                                                                     |Issue Link: "https://github.com/Genymobile/scrcpy/issues/832"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"the_silver_searcher"         |"https://github.com/ggreer/the_silver_searcher"             |714                           |
+                                                                                                                                     |Issue Title: "How to ignore device/process/notreal files when searching all file system for something?"
+                                                                                                                                     |Issue Link: "https://github.com/ggreer/the_silver_searcher/issues/1339"
+                                                                                                                                     |Issue Title: "ag through a pipe buffers output"
+                                                                                                                                     |Issue Link: "https://github.com/ggreer/the_silver_searcher/issues/1340"
+                                                                                                                                     |Issue Title: "vimgrep: :copen instead of automatically opening the first match"
+                                                                                                                                     |Issue Link: "https://github.com/ggreer/the_silver_searcher/issues/1341"
+                                                                                                                                     |Issue Title: "no rpm available in centos8"
+                                                                                                                                     |Issue Link: "https://github.com/ggreer/the_silver_searcher/issues/1343"
+                                                                                                                                     |Issue Title: "state project maintenance status"
+                                                                                                                                     |Issue Link: "https://github.com/ggreer/the_silver_searcher/issues/1344"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"How-to-Make-a-Computer-Operating-System"|"https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System"|62                            |
+                                                                                                                                     |Issue Title: "Error downloading files."
+                                                                                                                                     |Issue Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues/149"
+                                                                                                                                     |Issue Title: "How-to-Make-a-Computer-Operating-System-ZH-CN"
+                                                                                                                                     |Issue Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues/151"
+                                                                                                                                     |Issue Title: "Could not print userland \"hello world !“ in qemu-system-i386.exe "
+                                                                                                                                     |Issue Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues/153"
+                                                                                                                                     |Issue Title: "Vagrant failed"
+                                                                                                                                     |Issue Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues/154"
+                                                                                                                                     |Issue Title: "why my lucid32 cannot install tools like nasm, make, build-essential, grub and qemu??"
+                                                                                                                                     |Issue Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/issues/155"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"The-Art-Of-Programming-By-July"|"https://github.com/julycoding/The-Art-Of-Programming-By-July"|127                           |
+                                                                                                                                     |Issue Title: "05.04.md交替字符串问题的更简单实现"
+                                                                                                                                     |Issue Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/issues/460"
+                                                                                                                                     |Issue Title: "红黑树删除算法的第四种情况：x ← root[T] ，这是何意，就这样结束循环吗？那么A节点成为了root"
+                                                                                                                                     |Issue Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/issues/465"
+                                                                                                                                     |Issue Title: "01.06.md 前后文矛顿"
+                                                                                                                                     |Issue Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/issues/466"
+                                                                                                                                     |Issue Title: "关于编程之法，书本有很多算法习题，但是完全没有解答思路，网上也找不到，这个有点让大家成了盲头苍蝇"
+                                                                                                                                     |Issue Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/issues/467"
+                                                                                                                                     |Issue Title: "红黑树不显示图片了"
+                                                                                                                                     |Issue Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/issues/468"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"FFmpeg"                      |"https://github.com/FFmpeg/FFmpeg"                          |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"os-tutorial"                 |"https://github.com/cfenollosa/os-tutorial"                 |62                            |
+                                                                                                                                     |Issue Title: "Why is (position * 2) the real cursor position?"
+                                                                                                                                     |Issue Link: "https://github.com/cfenollosa/os-tutorial/issues/121"
+                                                                                                                                     |Issue Title: "Can I write a Chinese version like this?"
+                                                                                                                                     |Issue Link: "https://github.com/cfenollosa/os-tutorial/issues/123"
+                                                                                                                                     |Issue Title: "A ‘-Ttext 0x1000’ question about 13-kernel-barebones"
+                                                                                                                                     |Issue Link: "https://github.com/cfenollosa/os-tutorial/issues/124"
+                                                                                                                                     |Issue Title: "GDT but in AT&T?"
+                                                                                                                                     |Issue Link: "https://github.com/cfenollosa/os-tutorial/issues/125"
+                                                                                                                                     |Issue Title: "I want to translate this os-tutorial ! "
+                                                                                                                                     |Issue Link: "https://github.com/cfenollosa/os-tutorial/issues/126"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"jq"                          |"https://github.com/stedolan/jq"                            |1551                          |
+                                                                                                                                     |Issue Title: "Strict indexing operators?"
+                                                                                                                                     |Issue Link: "https://github.com/stedolan/jq/issues/1976"
+                                                                                                                                     |Issue Title: "glibc warning: _BSD_SOURCE and _SVID_SOURCE are deprecated, use _DEFAULT_SOURCE"
+                                                                                                                                     |Issue Link: "https://github.com/stedolan/jq/issues/1978"
+                                                                                                                                     |Issue Title: "Error getting array length with --arg"
+                                                                                                                                     |Issue Link: "https://github.com/stedolan/jq/issues/1979"
+                                                                                                                                     |Issue Title: "Feature request: Extract JSON from HTML files"
+                                                                                                                                     |Issue Link: "https://github.com/stedolan/jq/issues/1980"
+                                                                                                                                     |Issue Title: "installation errors"
+                                                                                                                                     |Issue Link: "https://github.com/stedolan/jq/issues/1981"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"tmux"                        |"https://github.com/tmux/tmux"                              |1630                          |
+                                                                                                                                     |Issue Title: "Consecutive order for session numbers"
+                                                                                                                                     |Issue Link: "https://github.com/tmux/tmux/issues/1918"
+                                                                                                                                     |Issue Title: "Add support for querying background color via OSC 11"
+                                                                                                                                     |Issue Link: "https://github.com/tmux/tmux/issues/1919"
+                                                                                                                                     |Issue Title: "can't show window in mac OS Mojave"
+                                                                                                                                     |Issue Link: "https://github.com/tmux/tmux/issues/1922"
+                                                                                                                                     |Issue Title: "<S-Left> or <S-Right> is not working properly in vim"
+                                                                                                                                     |Issue Link: "https://github.com/tmux/tmux/issues/1923"
+                                                                                                                                     |Issue Title: "Tmux crash with ncurses-6.1 on iOS"
+                                                                                                                                     |Issue Link: "https://github.com/tmux/tmux/issues/1925"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                   Latest Pull Requests in  c's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"linux"                       |"https://github.com/torvalds/linux"                         |698                           |
+                                                                                                                                     |PR Title: "Specify GFP_DMA for DMA-capable memory allocation in Firewire Driver"
+                                                                                                                                     |PR Link: "https://github.com/torvalds/linux/pull/724"
+                                                                                                                                     |PR Title: "merge 262 commits into CarDGee:master from torvalds:master"
+                                                                                                                                     |PR Link: "https://github.com/torvalds/linux/pull/725"
+                                                                                                                                     |PR Title: "Bionic develop"
+                                                                                                                                     |PR Link: "https://github.com/torvalds/linux/pull/726"
+                                                                                                                                     |PR Title: "created pizza"
+                                                                                                                                     |PR Link: "https://github.com/torvalds/linux/pull/727"
+                                                                                                                                     |PR Title: "Fix typo in a comment"
+                                                                                                                                     |PR Link: "https://github.com/torvalds/linux/pull/728"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"netdata"                     |"https://github.com/netdata/netdata"                        |2918                          |
+                                                                                                                                     |PR Title: "mysql: collect galera cluster metrics"
+                                                                                                                                     |PR Link: "https://github.com/netdata/netdata/pull/6962"
+                                                                                                                                     |PR Title: "Reduce overhead during write io"
+                                                                                                                                     |PR Link: "https://github.com/netdata/netdata/pull/6964"
+                                                                                                                                     |PR Title: "elasticsearch: collect metrics from _cat/indices"
+                                                                                                                                     |PR Link: "https://github.com/netdata/netdata/pull/6965"
+                                                                                                                                     |PR Title: "web api: include family into allmetrics json response"
+                                                                                                                                     |PR Link: "https://github.com/netdata/netdata/pull/6966"
+                                                                                                                                     |PR Title: "Fix coverity erro (CID 349552) double lock"
+                                                                                                                                     |PR Link: "https://github.com/netdata/netdata/pull/6970"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"redis"                       |"https://github.com/antirez/redis"                          |2565                          |
+                                                                                                                                     |PR Title: "DISCARD should not fail during OOM"
+                                                                                                                                     |PR Link: "https://github.com/antirez/redis/pull/6401"
+                                                                                                                                     |PR Title: "Seed SipHash with 128-bit key"
+                                                                                                                                     |PR Link: "https://github.com/antirez/redis/pull/6402"
+                                                                                                                                     |PR Title: "Allowed passing in of password hash and fixed config rewrite"
+                                                                                                                                     |PR Link: "https://github.com/antirez/redis/pull/6405"
+                                                                                                                                     |PR Title: "Fix NULL pointer check issue"
+                                                                                                                                     |PR Link: "https://github.com/antirez/redis/pull/6407"
+                                                                                                                                     |PR Title: "Added cluster host and protected mode variables to the create cluster script."
+                                                                                                                                     |PR Link: "https://github.com/antirez/redis/pull/6411"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"git"                         |"https://github.com/git/git"                                |583                           |
+                                                                                                                                     |PR Title: "Changed a typo"
+                                                                                                                                     |PR Link: "https://github.com/git/git/pull/649"
+                                                                                                                                     |PR Title: "Turned the extern integer fetch_if_missing into field of struct repository "
+                                                                                                                                     |PR Link: "https://github.com/git/git/pull/650"
+                                                                                                                                     |PR Title: "t0061: fix test for argv[0] with spaces (MINGW only)"
+                                                                                                                                     |PR Link: "https://github.com/git/git/pull/651"
+                                                                                                                                     |PR Title: "Update 1.5.0.1.txt"
+                                                                                                                                     |PR Link: "https://github.com/git/git/pull/652"
+                                                                                                                                     |PR Title: "Please ignore"
+                                                                                                                                     |PR Link: "https://github.com/git/git/pull/653"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"php-src"                     |"https://github.com/php/php-src"                            |4755                          |
+                                                                                                                                     |PR Title: "Fix #78609: mb_check_encoding() no longer supports stringable objects"
+                                                                                                                                     |PR Link: "https://github.com/php/php-src/pull/4757"
+                                                                                                                                     |PR Title: "Call error handler for E_COMPILE_WARNING"
+                                                                                                                                     |PR Link: "https://github.com/php/php-src/pull/4758"
+                                                                                                                                     |PR Title: "Test"
+                                                                                                                                     |PR Link: "https://github.com/php/php-src/pull/4759"
+                                                                                                                                     |PR Title: "switch the base"
+                                                                                                                                     |PR Link: "https://github.com/php/php-src/pull/4760"
+                                                                                                                                     |PR Title: "support 1 dialect"
+                                                                                                                                     |PR Link: "https://github.com/php/php-src/pull/4761"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"ijkplayer"                   |"https://github.com/bilibili/ijkplayer"                     |184                           |
+                                                                                                                                     |PR Title: "[fix] Demo - 修复具有file schema的Uri播放失败的问题"
+                                                                                                                                     |PR Link: "https://github.com/bilibili/ijkplayer/pull/4752"
+                                                                                                                                     |PR Title: "Support low delay rtsp and fix bug streaming stopped after period of time."
+                                                                                                                                     |PR Link: "https://github.com/bilibili/ijkplayer/pull/4771"
+                                                                                                                                     |PR Title: "Opengles2 to opengles3"
+                                                                                                                                     |PR Link: "https://github.com/bilibili/ijkplayer/pull/4789"
+                                                                                                                                     |PR Title: "Change: Add basic audio data callback framework to the API"
+                                                                                                                                     |PR Link: "https://github.com/bilibili/ijkplayer/pull/4833"
+                                                                                                                                     |PR Title: "feat: iOS off screen gl render"
+                                                                                                                                     |PR Link: "https://github.com/bilibili/ijkplayer/pull/4866"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"wrk"                         |"https://github.com/wg/wrk"                                 |106                           |
+                                                                                                                                     |PR Title: "add SCRIPING.md in Markdown format and fix typo"
+                                                                                                                                     |PR Link: "https://github.com/wg/wrk/pull/376"
+                                                                                                                                     |PR Title: "add snapcraft.yaml for building a snap package"
+                                                                                                                                     |PR Link: "https://github.com/wg/wrk/pull/377"
+                                                                                                                                     |PR Title: "Add installation macos steps"
+                                                                                                                                     |PR Link: "https://github.com/wg/wrk/pull/394"
+                                                                                                                                     |PR Title: "Build fix for archs where 64-bit __sync operators are not implemented."
+                                                                                                                                     |PR Link: "https://github.com/wg/wrk/pull/395"
+                                                                                                                                     |PR Title: "script: Allow passing script through stdin with -"
+                                                                                                                                     |PR Link: "https://github.com/wg/wrk/pull/396"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"scrcpy"                      |"https://github.com/Genymobile/scrcpy"                      |63                            |
+                                                                                                                                     |PR Title: "Update WindowManager.java"
+                                                                                                                                     |PR Link: "https://github.com/Genymobile/scrcpy/pull/708"
+                                                                                                                                     |PR Title: "Just a couple of new command line options. Borderless and window position."
+                                                                                                                                     |PR Link: "https://github.com/Genymobile/scrcpy/pull/762"
+                                                                                                                                     |PR Title: "Add a logo to scrcpy, add Windows launcher and custom tile"
+                                                                                                                                     |PR Link: "https://github.com/Genymobile/scrcpy/pull/764"
+                                                                                                                                     |PR Title: "fix scrcpy option and meson build"
+                                                                                                                                     |PR Link: "https://github.com/Genymobile/scrcpy/pull/823"
+                                                                                                                                     |PR Title: "Turn screen off when closing scrcpy"
+                                                                                                                                     |PR Link: "https://github.com/Genymobile/scrcpy/pull/824"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"the_silver_searcher"         |"https://github.com/ggreer/the_silver_searcher"             |629                           |
+                                                                                                                                     |PR Title: "midipix support"
+                                                                                                                                     |PR Link: "https://github.com/ggreer/the_silver_searcher/pull/1326"
+                                                                                                                                     |PR Title: "Add .edn file type for clojure files"
+                                                                                                                                     |PR Link: "https://github.com/ggreer/the_silver_searcher/pull/1330"
+                                                                                                                                     |PR Title: "Default to no color when $TERM is dumb"
+                                                                                                                                     |PR Link: "https://github.com/ggreer/the_silver_searcher/pull/1332"
+                                                                                                                                     |PR Title: "Fix unsupported compression type message/segfault on ZIP and LZW"
+                                                                                                                                     |PR Link: "https://github.com/ggreer/the_silver_searcher/pull/1333"
+                                                                                                                                     |PR Title: "Update to current year"
+                                                                                                                                     |PR Link: "https://github.com/ggreer/the_silver_searcher/pull/1342"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"How-to-Make-a-Computer-Operating-System"|"https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System"|90                            |
+                                                                                                                                     |PR Title: "Add links to the next chapters"
+                                                                                                                                     |PR Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/140"
+                                                                                                                                     |PR Title: "for testing"
+                                                                                                                                     |PR Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/141"
+                                                                                                                                     |PR Title: "change old release vagrant file and add provision.sh"
+                                                                                                                                     |PR Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/143"
+                                                                                                                                     |PR Title: "changed wording in readme.md"
+                                                                                                                                     |PR Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/146"
+                                                                                                                                     |PR Title: "Fixed some typos"
+                                                                                                                                     |PR Link: "https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/pull/150"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"The-Art-Of-Programming-By-July"|"https://github.com/julycoding/The-Art-Of-Programming-By-July"|341                           |
+                                                                                                                                     |PR Title: "Update 01.05.md"
+                                                                                                                                     |PR Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/pull/458"
+                                                                                                                                     |PR Title: "Update 06.09.md"
+                                                                                                                                     |PR Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/pull/461"
+                                                                                                                                     |PR Title: "5.3:最小编辑距离"
+                                                                                                                                     |PR Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/pull/462"
+                                                                                                                                     |PR Title: "Fix heading"
+                                                                                                                                     |PR Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/pull/463"
+                                                                                                                                     |PR Title: "Update 02.10.md"
+                                                                                                                                     |PR Link: "https://github.com/julycoding/The-Art-Of-Programming-By-July/pull/464"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"FFmpeg"                      |"https://github.com/FFmpeg/FFmpeg"                          |317                           |
+                                                                                                                                     |PR Title: "Use print() function in both Python 2 and Python 3"
+                                                                                                                                     |PR Link: "https://github.com/FFmpeg/FFmpeg/pull/318"
+                                                                                                                                     |PR Title: "Travis CI: The sudo: tag is now fully deprecated in Travis"
+                                                                                                                                     |PR Link: "https://github.com/FFmpeg/FFmpeg/pull/319"
+                                                                                                                                     |PR Title: "Release/4.2"
+                                                                                                                                     |PR Link: "https://github.com/FFmpeg/FFmpeg/pull/320"
+                                                                                                                                     |PR Title: "pull from master"
+                                                                                                                                     |PR Link: "https://github.com/FFmpeg/FFmpeg/pull/321"
+                                                                                                                                     |PR Title: "avcodec/qsv: polling free synchronization"
+                                                                                                                                     |PR Link: "https://github.com/FFmpeg/FFmpeg/pull/322"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"os-tutorial"                 |"https://github.com/cfenollosa/os-tutorial"                 |62                            |
+                                                                                                                                     |PR Title: "Fix broken link for gcc-4.9.1"
+                                                                                                                                     |PR Link: "https://github.com/cfenollosa/os-tutorial/pull/116"
+                                                                                                                                     |PR Title: "Lesson 22 - hex_to_ascii bug"
+                                                                                                                                     |PR Link: "https://github.com/cfenollosa/os-tutorial/pull/117"
+                                                                                                                                     |PR Title: "Finished implementing int_to_ascii"
+                                                                                                                                     |PR Link: "https://github.com/cfenollosa/os-tutorial/pull/119"
+                                                                                                                                     |PR Title: "Errors in stack section"
+                                                                                                                                     |PR Link: "https://github.com/cfenollosa/os-tutorial/pull/120"
+                                                                                                                                     |PR Title: "Merge pull request #1 from cfenollosa/master"
+                                                                                                                                     |PR Link: "https://github.com/cfenollosa/os-tutorial/pull/122"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"jq"                          |"https://github.com/stedolan/jq"                            |430                           |
+                                                                                                                                     |PR Title: "Define range/2 by jq-coded function"
+                                                                                                                                     |PR Link: "https://github.com/stedolan/jq/pull/1960"
+                                                                                                                                     |PR Title: "implement scan/2 function"
+                                                                                                                                     |PR Link: "https://github.com/stedolan/jq/pull/1961"
+                                                                                                                                     |PR Title: "[doc] replace find with select function as the example of jq-coded functions"
+                                                                                                                                     |PR Link: "https://github.com/stedolan/jq/pull/1962"
+                                                                                                                                     |PR Title: "Rephrase doc \"A string B is contained in A\" ..."
+                                                                                                                                     |PR Link: "https://github.com/stedolan/jq/pull/1970"
+                                                                                                                                     |PR Title: "Override field color with JQ_COLORS"
+                                                                                                                                     |PR Link: "https://github.com/stedolan/jq/pull/1977"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"tmux"                        |"https://github.com/tmux/tmux"                              |293                           |
+                                                                                                                                     |PR Title: "respect bold/bright attr when fallback from 256 colorname to 8 colors…"
+                                                                                                                                     |PR Link: "https://github.com/tmux/tmux/pull/1914"
+                                                                                                                                     |PR Title: "WINDOW_TREE_DEFAULT_FORMAT: always display pane_title"
+                                                                                                                                     |PR Link: "https://github.com/tmux/tmux/pull/1915"
+                                                                                                                                     |PR Title: "Break line before `screen*`, add `Smol` ANSI sequence to `xterm*` and `screen*`"
+                                                                                                                                     |PR Link: "https://github.com/tmux/tmux/pull/1920"
+                                                                                                                                     |PR Title: "When a blank title is set re-enable automatic-rename."
+                                                                                                                                     |PR Link: "https://github.com/tmux/tmux/pull/1921"
+                                                                                                                                     |PR Title: "Fixed truncation of long commands in list-keys output."
+                                                                                                                                     |PR Link: "https://github.com/tmux/tmux/pull/1924"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+

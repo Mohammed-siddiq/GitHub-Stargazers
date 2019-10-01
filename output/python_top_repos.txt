@@ -1,0 +1,393 @@
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                            Top 15 starred repos for python language
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|Sl. No    |Repo. Name                    |URL                                                         |Forks     |Releases  |Commits   |Pull-Requests       |Watchers  |Stars     |Issues    |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+|1         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |6930      |0         |6         |902                 |1931      |62924     |112       |
+|2         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |9739      |276       |1445      |3507                |1794      |56085     |17992     |
+|3         |"keras"                       |"https://github.com/keras-team/keras"                       |16898     |21        |222       |3787                |2076      |44454     |9585      |
+|4         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |2834      |31        |28        |235                 |1073      |43282     |555       |
+|5         |"awesome-machine-learning"    |"https://github.com/josephmisiti/awesome-machine-learning"  |10571     |0         |3         |572                 |3314      |41936     |60        |
+|6         |"ansible"                     |"https://github.com/ansible/ansible"                        |16897     |3         |770       |38297               |2029      |39543     |24669     |
+|7         |"scrapy"                      |"https://github.com/scrapy/scrapy"                          |8047      |10        |85        |2036                |1836      |34578     |1997      |
+|8         |"big-list-of-naughty-strings" |"https://github.com/minimaxir/big-list-of-naughty-strings"  |1432      |0         |10        |130                 |794       |33283     |68        |
+|9         |"shadowsocks"                 |"https://github.com/shadowsocks/shadowsocks"                |19249     |2         |397       |155                 |2052      |31528     |0         |
+|10        |"face_recognition"            |"https://github.com/ageitgey/face_recognition"              |7720      |2         |6         |109                 |1401      |28440     |832       |
+|11        |"Algorithm_Interview_Notes-Chinese"|"https://github.com/imhuay/Algorithm_Interview_Notes-Chinese"|8334      |0         |0         |22                  |1476      |26886     |36        |
+|12        |"Deep-Learning-Papers-Reading-Roadmap"|"https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap"|5496      |0         |0         |72                  |2138      |24137     |40        |
+|13        |"pandas"                      |"https://github.com/pandas-dev/pandas"                      |8522      |51        |584       |12647               |1032      |21491     |16043     |
+|14        |"jieba"                       |"https://github.com/fxsjy/jieba"                            |5203      |5         |13        |135                 |1270      |20244     |631       |
+|15        |"localstack"                  |"https://github.com/localstack/localstack"                  |1384      |7         |10        |535                 |456       |19334     |1069      |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                      Latest Issues in python's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total Issues                  |Top 5 Issue                                                                                         
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |112                           |
+                                                                                                                                     |Issue Title: "This is one of my favorite repositories for awesome APIs"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/994"
+                                                                                                                                     |Issue Title: "fortniteapi.com important information"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/998"
+                                                                                                                                     |Issue Title: "haveibeenpwned's v3 API"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1009"
+                                                                                                                                     |Issue Title: "AXFR Database link doesn't work"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1016"
+                                                                                                                                     |Issue Title: "insert https://developers.bb.com.br/docs/#!/Checking_Account/get_statements_checking_account"
+                                                                                                                                     |Issue Link: "https://github.com/public-apis/public-apis/issues/1020"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |17992                         |
+                                                                                                                                     |Issue Title: "Facebook video download filename too long when using strange characters in title."
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22558"
+                                                                                                                                     |Issue Title: "raiplay.it and upload_date"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22559"
+                                                                                                                                     |Issue Title: "Some CBSNews videos cannot be downloaded"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22560"
+                                                                                                                                     |Issue Title: "FranceTV: No video formats found"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22561"
+                                                                                                                                     |Issue Title: "Download list to null"
+                                                                                                                                     |Issue Link: "https://github.com/ytdl-org/youtube-dl/issues/22562"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"keras"                       |"https://github.com/keras-team/keras"                       |9585                          |
+                                                                                                                                     |Issue Title: "CSVLogger leaks file handles on interuption"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13377"
+                                                                                                                                     |Issue Title: "Get current batch prediction inside keras training cycle"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13379"
+                                                                                                                                     |Issue Title: "Cannot interpret tensor error when returning from multiprocessing on *second* iteration"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13380"
+                                                                                                                                     |Issue Title: "EarlyStopping Callbakc not working with Multiple Callbacks"
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13381"
+                                                                                                                                     |Issue Title: "shuffle instabilities on color image with size 244x224 "
+                                                                                                                                     |Issue Link: "https://github.com/keras-team/keras/issues/13382"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |555                           |
+                                                                                                                                     |Issue Title: "--pretty=all not working in Windows"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/799"
+                                                                                                                                     |Issue Title: "\"SSL: CERTIFICATE_VERIFY_FAILED\" should show cert at least with --debug"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/800"
+                                                                                                                                     |Issue Title: "http: error: ConnectionError: ('Connection aborted.', HTTPException('got more than 100 headers',)) while doing GET request to URL"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/802"
+                                                                                                                                     |Issue Title: "Feature Request: Automatically pass information about the terminal in HTTP headers"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/805"
+                                                                                                                                     |Issue Title: "Feature request: Magic mode (or busybox, or httpbox mode)"
+                                                                                                                                     |Issue Link: "https://github.com/jakubroztocil/httpie/issues/806"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"awesome-machine-learning"    |"https://github.com/josephmisiti/awesome-machine-learning"  |60                            |
+                                                                                                                                     |Issue Title: "Wiki is world editable"
+                                                                                                                                     |Issue Link: "https://github.com/josephmisiti/awesome-machine-learning/issues/564"
+                                                                                                                                     |Issue Title: "contribute"
+                                                                                                                                     |Issue Link: "https://github.com/josephmisiti/awesome-machine-learning/issues/577"
+                                                                                                                                     |Issue Title: "Add FluxML and JuliaText packages in Julia"
+                                                                                                                                     |Issue Link: "https://github.com/josephmisiti/awesome-machine-learning/issues/605"
+                                                                                                                                     |Issue Title: "Add the ANN lib called Konectik"
+                                                                                                                                     |Issue Link: "https://github.com/josephmisiti/awesome-machine-learning/issues/614"
+                                                                                                                                     |Issue Title: "Please add links for Delphi langage"
+                                                                                                                                     |Issue Link: "https://github.com/josephmisiti/awesome-machine-learning/issues/620"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"ansible"                     |"https://github.com/ansible/ansible"                        |24669                         |
+                                                                                                                                     |Issue Title: "gcp_compute_address"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62967"
+                                                                                                                                     |Issue Title: "User module on Darwin is not idempotent"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62969"
+                                                                                                                                     |Issue Title: "LogicMonitor Module RPC deprecated"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62972"
+                                                                                                                                     |Issue Title: "Visibility is not set correctly in fmgr_fwobj_address.py"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62979"
+                                                                                                                                     |Issue Title: "junos_facts in 2.9rc1 throws exception. Works in 2.8"
+                                                                                                                                     |Issue Link: "https://github.com/ansible/ansible/issues/62983"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"scrapy"                      |"https://github.com/scrapy/scrapy"                          |1997                          |
+                                                                                                                                     |Issue Title: "python3.6 start_requests method can not concurrently reques"
+                                                                                                                                     |Issue Link: "https://github.com/scrapy/scrapy/issues/4038"
+                                                                                                                                     |Issue Title: "Can't disable SSL verification in Scrapy"
+                                                                                                                                     |Issue Link: "https://github.com/scrapy/scrapy/issues/4040"
+                                                                                                                                     |Issue Title: "Adding Type Hints to Scrapy and its Modules"
+                                                                                                                                     |Issue Link: "https://github.com/scrapy/scrapy/issues/4041"
+                                                                                                                                     |Issue Title: "Scrapy download middelware should pause on  Connection loss and Resume when internet connection is available."
+                                                                                                                                     |Issue Link: "https://github.com/scrapy/scrapy/issues/4043"
+                                                                                                                                     |Issue Title: "Scrappy don't call the first request"
+                                                                                                                                     |Issue Link: "https://github.com/scrapy/scrapy/issues/4044"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"big-list-of-naughty-strings" |"https://github.com/minimaxir/big-list-of-naughty-strings"  |68                            |
+                                                                                                                                     |Issue Title: "What's so naughty about 'evaluate' and 'mocha'?"
+                                                                                                                                     |Issue Link: "https://github.com/minimaxir/big-list-of-naughty-strings/issues/188"
+                                                                                                                                     |Issue Title: "Add go.mod file to support Go v1.11+ modules"
+                                                                                                                                     |Issue Link: "https://github.com/minimaxir/big-list-of-naughty-strings/issues/190"
+                                                                                                                                     |Issue Title: "add null byte"
+                                                                                                                                     |Issue Link: "https://github.com/minimaxir/big-list-of-naughty-strings/issues/194"
+                                                                                                                                     |Issue Title: "99% Invisible and some Mazda/Nissans"
+                                                                                                                                     |Issue Link: "https://github.com/minimaxir/big-list-of-naughty-strings/issues/197"
+                                                                                                                                     |Issue Title: "%x.%x.%x.%x and BMWs"
+                                                                                                                                     |Issue Link: "https://github.com/minimaxir/big-list-of-naughty-strings/issues/199"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"shadowsocks"                 |"https://github.com/shadowsocks/shadowsocks"                |0                             |
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"face_recognition"            |"https://github.com/ageitgey/face_recognition"              |832                           |
+                                                                                                                                     |Issue Title: "How to process batch of images if it's last frames and their amount less than 128?"
+                                                                                                                                     |Issue Link: "https://github.com/ageitgey/face_recognition/issues/939"
+                                                                                                                                     |Issue Title: " Which paper is this algorithm from? Why there is no reference?"
+                                                                                                                                     |Issue Link: "https://github.com/ageitgey/face_recognition/issues/940"
+                                                                                                                                     |Issue Title: "Find the parts of the face"
+                                                                                                                                     |Issue Link: "https://github.com/ageitgey/face_recognition/issues/941"
+                                                                                                                                     |Issue Title: "Pyharm Terminal pip install face_recognition problem"
+                                                                                                                                     |Issue Link: "https://github.com/ageitgey/face_recognition/issues/942"
+                                                                                                                                     |Issue Title: "Privacy on face_recognition"
+                                                                                                                                     |Issue Link: "https://github.com/ageitgey/face_recognition/issues/943"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"Algorithm_Interview_Notes-Chinese"|"https://github.com/imhuay/Algorithm_Interview_Notes-Chinese"|36                            |
+                                                                                                                                     |Issue Title: "代码有错误：题解-面试真题.md: \"给定 n 个[0,n)区间内的数，统计每个数出现的次数，不使用额外空间\""
+                                                                                                                                     |Issue Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/issues/51"
+                                                                                                                                     |Issue Title: "专题B-双指针-接雨水 笔误"
+                                                                                                                                     |Issue Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/issues/52"
+                                                                                                                                     |Issue Title: "概率论几何概型例题有误"
+                                                                                                                                     |Issue Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/issues/55"
+                                                                                                                                     |Issue Title: "建军"
+                                                                                                                                     |Issue Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/issues/58"
+                                                                                                                                     |Issue Title: "补充-计算机视觉基本模型"
+                                                                                                                                     |Issue Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/issues/59"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"Deep-Learning-Papers-Reading-Roadmap"|"https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap"|40                            |
+                                                                                                                                     |Issue Title: "Why the same model performs better in 5-way 5-shot than 5-way 1-shot ?"
+                                                                                                                                     |Issue Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/issues/103"
+                                                                                                                                     |Issue Title: "googleNet with VGG"
+                                                                                                                                     |Issue Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/issues/104"
+                                                                                                                                     |Issue Title: "paper [52] link broken"
+                                                                                                                                     |Issue Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/issues/109"
+                                                                                                                                     |Issue Title: "Is this repo still alive?"
+                                                                                                                                     |Issue Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/issues/112"
+                                                                                                                                     |Issue Title: "The download.py script needs an extra \"encoding='utf-8'\" at line87 or else it won't work on Windows computers"
+                                                                                                                                     |Issue Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/issues/113"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"pandas"                      |"https://github.com/pandas-dev/pandas"                      |16043                         |
+                                                                                                                                     |Issue Title: "How to create a file with JsonL extension from my dataframe?"
+                                                                                                                                     |Issue Link: "https://github.com/pandas-dev/pandas/issues/28694"
+                                                                                                                                     |Issue Title: "Series.sort_values using mergesort and descending is not stable"
+                                                                                                                                     |Issue Link: "https://github.com/pandas-dev/pandas/issues/28697"
+                                                                                                                                     |Issue Title: "read_hdf closes HDF5 stores that it didn't open."
+                                                                                                                                     |Issue Link: "https://github.com/pandas-dev/pandas/issues/28699"
+                                                                                                                                     |Issue Title: "TST/ENH: add default values check to validate_docstrings.py"
+                                                                                                                                     |Issue Link: "https://github.com/pandas-dev/pandas/issues/28701"
+                                                                                                                                     |Issue Title: "DOC: Docstrings Formatting error PR09,PR08 in pandas.DataFrame"
+                                                                                                                                     |Issue Link: "https://github.com/pandas-dev/pandas/issues/28702"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"jieba"                       |"https://github.com/fxsjy/jieba"                            |631                           |
+                                                                                                                                     |Issue Title: "词性标注问题较大"
+                                                                                                                                     |Issue Link: "https://github.com/fxsjy/jieba/issues/762"
+                                                                                                                                     |Issue Title: "online demo挂了"
+                                                                                                                                     |Issue Link: "https://github.com/fxsjy/jieba/issues/763"
+                                                                                                                                     |Issue Title: "为什么不能对jieba.cut()返回的generator进行迭代for循环"
+                                                                                                                                     |Issue Link: "https://github.com/fxsjy/jieba/issues/764"
+                                                                                                                                     |Issue Title: "Want a progress bar."
+                                                                                                                                     |Issue Link: "https://github.com/fxsjy/jieba/issues/765"
+                                                                                                                                     |Issue Title: "为什么module 'jieba' has no attribute 'analyse'？其他的模块都有。"
+                                                                                                                                     |Issue Link: "https://github.com/fxsjy/jieba/issues/767"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"localstack"                  |"https://github.com/localstack/localstack"                  |1069                          |
+                                                                                                                                     |Issue Title: "StepFunctions Support for MAP "
+                                                                                                                                     |Issue Link: "https://github.com/localstack/localstack/issues/1601"
+                                                                                                                                     |Issue Title: "Cannot connect to Cognito on pro closed beta"
+                                                                                                                                     |Issue Link: "https://github.com/localstack/localstack/issues/1602"
+                                                                                                                                     |Issue Title: "describe-stream crashes in docker-image"
+                                                                                                                                     |Issue Link: "https://github.com/localstack/localstack/issues/1604"
+                                                                                                                                     |Issue Title: "development environment python version should match the docker image"
+                                                                                                                                     |Issue Link: "https://github.com/localstack/localstack/issues/1605"
+                                                                                                                                     |Issue Title: "docker-compose up | Exception running proxy on port 8081"
+                                                                                                                                     |Issue Link: "https://github.com/localstack/localstack/issues/1607"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                              Latest Pull Requests in  python's top 15 starred repos
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sl. No    |Repo Name                     |URL                                                         |Total PRs                     |Latest 5 Prs                                                                                        
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+1         |"public-apis"                 |"https://github.com/public-apis/public-apis"                |902                           |
+                                                                                                                                     |PR Title: "Add \"The Breaking Bad API\""
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1023"
+                                                                                                                                     |PR Title: "Add owlbot dictionary API"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1024"
+                                                                                                                                     |PR Title: "Add freegeoip.app"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1025"
+                                                                                                                                     |PR Title: "Adding AbuseIPDB"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1026"
+                                                                                                                                     |PR Title: "Adding Deepcode"
+                                                                                                                                     |PR Link: "https://github.com/public-apis/public-apis/pull/1027"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+2         |"youtube-dl"                  |"https://github.com/ytdl-org/youtube-dl"                    |3507                          |
+                                                                                                                                     |PR Title: "[fc2] Fixed fc2 video download"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22520"
+                                                                                                                                     |PR Title: "[youtube] Remove invidious.enkirton.net"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22543"
+                                                                                                                                     |PR Title: "New extractor - abcclassicfm"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22554"
+                                                                                                                                     |PR Title: "[formula1:f1tv] Add extractor (closes #20374)"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22563"
+                                                                                                                                     |PR Title: "[dumpert] Fix extractor for redesign (#22428)"
+                                                                                                                                     |PR Link: "https://github.com/ytdl-org/youtube-dl/pull/22564"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+3         |"keras"                       |"https://github.com/keras-team/keras"                       |3787                          |
+                                                                                                                                     |PR Title: "fix #13341 math_ops to K"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13342"
+                                                                                                                                     |PR Title: "Fix encoding error"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13355"
+                                                                                                                                     |PR Title: "Remove @disable_tracking in Bidirectional.__init__"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13360"
+                                                                                                                                     |PR Title: "Update local.py"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13373"
+                                                                                                                                     |PR Title: "Fix file leak in CSVLogger"
+                                                                                                                                     |PR Link: "https://github.com/keras-team/keras/pull/13378"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4         |"httpie"                      |"https://github.com/jakubroztocil/httpie"                   |235                           |
+                                                                                                                                     |PR Title: "Fix tests (work in progress)"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/796"
+                                                                                                                                     |PR Title: "Fix wrong character output when encoding is not correct"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/798"
+                                                                                                                                     |PR Title: "Update homebrew formula for 1.0.3"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/801"
+                                                                                                                                     |PR Title: "Add installation instructions for openSUSE"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/803"
+                                                                                                                                     |PR Title: "Update installation in Windows"
+                                                                                                                                     |PR Link: "https://github.com/jakubroztocil/httpie/pull/804"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+5         |"awesome-machine-learning"    |"https://github.com/josephmisiti/awesome-machine-learning"  |572                           |
+                                                                                                                                     |PR Title: "Added Machine Learning, Data Science and Deep Learning with Python"
+                                                                                                                                     |PR Link: "https://github.com/josephmisiti/awesome-machine-learning/pull/629"
+                                                                                                                                     |PR Title: "Move Cornac from C++ to Python category"
+                                                                                                                                     |PR Link: "https://github.com/josephmisiti/awesome-machine-learning/pull/630"
+                                                                                                                                     |PR Title: "add two JS demos"
+                                                                                                                                     |PR Link: "https://github.com/josephmisiti/awesome-machine-learning/pull/631"
+                                                                                                                                     |PR Title: "Added Deep Learning with Structured Data"
+                                                                                                                                     |PR Link: "https://github.com/josephmisiti/awesome-machine-learning/pull/632"
+                                                                                                                                     |PR Title: "fix table of contents"
+                                                                                                                                     |PR Link: "https://github.com/josephmisiti/awesome-machine-learning/pull/633"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+6         |"ansible"                     |"https://github.com/ansible/ansible"                        |38297                         |
+                                                                                                                                     |PR Title: "Refactor AWS ecs_ecr module to rely on AnsibleAWSModule"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62985"
+                                                                                                                                     |PR Title: "[stable-2.9] Exclude tmp dir from ansible-test results copy."
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62986"
+                                                                                                                                     |PR Title: "adding ostype win10 support for proxmox_kvm to resolve issue #55045"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62987"
+                                                                                                                                     |PR Title: "Fixes to the rpm dependencies"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62988"
+                                                                                                                                     |PR Title: "[stable-2.9] Fixes to the rpm dependencies"
+                                                                                                                                     |PR Link: "https://github.com/ansible/ansible/pull/62989"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+7         |"scrapy"                      |"https://github.com/scrapy/scrapy"                          |2036                          |
+                                                                                                                                     |PR Title: "ItemLoader: improve handling of initial item"
+                                                                                                                                     |PR Link: "https://github.com/scrapy/scrapy/pull/4036"
+                                                                                                                                     |PR Title: "python3.6 start_requests method can not concurrently reques  "
+                                                                                                                                     |PR Link: "https://github.com/scrapy/scrapy/pull/4037"
+                                                                                                                                     |PR Title: "Move documentation about avoiding bans into a topic of its own"
+                                                                                                                                     |PR Link: "https://github.com/scrapy/scrapy/pull/4039"
+                                                                                                                                     |PR Title: "Error 302 redirection with headers location starts with 3 slash #4032…"
+                                                                                                                                     |PR Link: "https://github.com/scrapy/scrapy/pull/4042"
+                                                                                                                                     |PR Title: "Provide complete API documentation coverage of scrapy.linkextractors"
+                                                                                                                                     |PR Link: "https://github.com/scrapy/scrapy/pull/4045"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+8         |"big-list-of-naughty-strings" |"https://github.com/minimaxir/big-list-of-naughty-strings"  |130                           |
+                                                                                                                                     |PR Title: "introduce makefile to generate internal/resource.go"
+                                                                                                                                     |PR Link: "https://github.com/minimaxir/big-list-of-naughty-strings/pull/193"
+                                                                                                                                     |PR Title: "Adds `constructor`"
+                                                                                                                                     |PR Link: "https://github.com/minimaxir/big-list-of-naughty-strings/pull/195"
+                                                                                                                                     |PR Title: "Update blns.txt"
+                                                                                                                                     |PR Link: "https://github.com/minimaxir/big-list-of-naughty-strings/pull/196"
+                                                                                                                                     |PR Title: "Add Persian special characters"
+                                                                                                                                     |PR Link: "https://github.com/minimaxir/big-list-of-naughty-strings/pull/198"
+                                                                                                                                     |PR Title: "Added Deseret string"
+                                                                                                                                     |PR Link: "https://github.com/minimaxir/big-list-of-naughty-strings/pull/200"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+9         |"shadowsocks"                 |"https://github.com/shadowsocks/shadowsocks"                |155                           |
+                                                                                                                                     |PR Title: "add `server_port` in failing log"
+                                                                                                                                     |PR Link: "https://github.com/shadowsocks/shadowsocks/pull/1391"
+                                                                                                                                     |PR Title: "Merge pull request #1 from shadowsocks/master"
+                                                                                                                                     |PR Link: "https://github.com/shadowsocks/shadowsocks/pull/1440"
+                                                                                                                                     |PR Title: "Update CONTRIBUTING.md"
+                                                                                                                                     |PR Link: "https://github.com/shadowsocks/shadowsocks/pull/1455"
+                                                                                                                                     |PR Title: "同步更新"
+                                                                                                                                     |PR Link: "https://github.com/shadowsocks/shadowsocks/pull/1485"
+                                                                                                                                     |PR Title: "add bind address for ssserver"
+                                                                                                                                     |PR Link: "https://github.com/shadowsocks/shadowsocks/pull/1486"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+10        |"face_recognition"            |"https://github.com/ageitgey/face_recognition"              |109                           |
+                                                                                                                                     |PR Title: "Update list of supported Python versions"
+                                                                                                                                     |PR Link: "https://github.com/ageitgey/face_recognition/pull/913"
+                                                                                                                                     |PR Title: "Fixed occasional \"zombie\" processes from running `facerec_from_webcam_multiprocessing.py`"
+                                                                                                                                     |PR Link: "https://github.com/ageitgey/face_recognition/pull/924"
+                                                                                                                                     |PR Title: "Allow `face_encodings` to accept either 'large' or 'small' pose prediction models"
+                                                                                                                                     |PR Link: "https://github.com/ageitgey/face_recognition/pull/925"
+                                                                                                                                     |PR Title: "Need to show only one predicted name per face"
+                                                                                                                                     |PR Link: "https://github.com/ageitgey/face_recognition/pull/935"
+                                                                                                                                     |PR Title: "Update face_recognition_cli.py"
+                                                                                                                                     |PR Link: "https://github.com/ageitgey/face_recognition/pull/936"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+11        |"Algorithm_Interview_Notes-Chinese"|"https://github.com/imhuay/Algorithm_Interview_Notes-Chinese"|22                            |
+                                                                                                                                     |PR Title: "Jeffery ljf patch 1"
+                                                                                                                                     |PR Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/pull/49"
+                                                                                                                                     |PR Title: "Adjust Support, Confidence and Lift"
+                                                                                                                                     |PR Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/pull/53"
+                                                                                                                                     |PR Title: ":memo: modify lastest issue #52"
+                                                                                                                                     |PR Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/pull/54"
+                                                                                                                                     |PR Title: "部分引用无法跳转"
+                                                                                                                                     |PR Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/pull/56"
+                                                                                                                                     |PR Title: "Update A-机器学习实践.md"
+                                                                                                                                     |PR Link: "https://github.com/imhuay/Algorithm_Interview_Notes-Chinese/pull/57"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+12        |"Deep-Learning-Papers-Reading-Roadmap"|"https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap"|72                            |
+                                                                                                                                     |PR Title: "Update download.py"
+                                                                                                                                     |PR Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/pull/107"
+                                                                                                                                     |PR Title: "fix typo in \"Deep Learning Method\" title"
+                                                                                                                                     |PR Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/pull/108"
+                                                                                                                                     |PR Title: "Fixed broken link for Mastering the game of Go with deep neural netwo…"
+                                                                                                                                     |PR Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/pull/110"
+                                                                                                                                     |PR Title: "(Minor) Formatting proposals"
+                                                                                                                                     |PR Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/pull/111"
+                                                                                                                                     |PR Title: "Updated README.md"
+                                                                                                                                     |PR Link: "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap/pull/114"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+13        |"pandas"                      |"https://github.com/pandas-dev/pandas"                      |12647                         |
+                                                                                                                                     |PR Title: "TST: Add test for categorical with str and tuples"
+                                                                                                                                     |PR Link: "https://github.com/pandas-dev/pandas/pull/28693"
+                                                                                                                                     |PR Title: "Picking up issue#17304 from closed PR"
+                                                                                                                                     |PR Link: "https://github.com/pandas-dev/pandas/pull/28695"
+                                                                                                                                     |PR Title: "feature wanted: pd.DataFrame.info() should show line numbers #17304"
+                                                                                                                                     |PR Link: "https://github.com/pandas-dev/pandas/pull/28696"
+                                                                                                                                     |PR Title: "BUG: Fix Series.sort_values descending & mergesort"
+                                                                                                                                     |PR Link: "https://github.com/pandas-dev/pandas/pull/28698"
+                                                                                                                                     |PR Title: "read_hdf closes HDF5 stores that it didn't open."
+                                                                                                                                     |PR Link: "https://github.com/pandas-dev/pandas/pull/28700"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+14        |"jieba"                       |"https://github.com/fxsjy/jieba"                            |135                           |
+                                                                                                                                     |PR Title: "Syntax issue on string 495"
+                                                                                                                                     |PR Link: "https://github.com/fxsjy/jieba/pull/732"
+                                                                                                                                     |PR Title: "sentence split exclude · many names include ·"
+                                                                                                                                     |PR Link: "https://github.com/fxsjy/jieba/pull/734"
+                                                                                                                                     |PR Title: "Update README.md "
+                                                                                                                                     |PR Link: "https://github.com/fxsjy/jieba/pull/745"
+                                                                                                                                     |PR Title: " add global declaration for start_P and trans_P (for improving symmetry, readability and syntax correctness)"
+                                                                                                                                     |PR Link: "https://github.com/fxsjy/jieba/pull/748"
+                                                                                                                                     |PR Title: "Update tfidf.py"
+                                                                                                                                     |PR Link: "https://github.com/fxsjy/jieba/pull/766"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+15        |"localstack"                  |"https://github.com/localstack/localstack"                  |535                           |
+                                                                                                                                     |PR Title: "fix crash while requesting describe-stream (#1588)"
+                                                                                                                                     |PR Link: "https://github.com/localstack/localstack/pull/1589"
+                                                                                                                                     |PR Title: "Fix CORS headers for SQS/SNS/DDB"
+                                                                                                                                     |PR Link: "https://github.com/localstack/localstack/pull/1592"
+                                                                                                                                     |PR Title: "Fix a typo"
+                                                                                                                                     |PR Link: "https://github.com/localstack/localstack/pull/1603"
+                                                                                                                                     |PR Title: "fix describe-stream crash for python3.6.8 (#1604)"
+                                                                                                                                     |PR Link: "https://github.com/localstack/localstack/pull/1606"
+                                                                                                                                     |PR Title: "Add checks for open UDP ports; fix S3 chunked encoding uploads"
+                                                                                                                                     |PR Link: "https://github.com/localstack/localstack/pull/1608"
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
