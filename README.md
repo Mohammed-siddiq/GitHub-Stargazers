@@ -53,7 +53,7 @@ git clone https://Iam_MohammedSiddiq@bitbucket.org/Iam_MohammedSiddiq/mohammed_s
 - Run the following command
 
 ```
-sbt clean compile run
+sbt clean compile test run
 ```
 
 
