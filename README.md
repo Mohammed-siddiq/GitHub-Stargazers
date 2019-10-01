@@ -64,9 +64,9 @@ _NOTE : Requires sbt for running the above command_
 
 # Execution snapshot
 
+The following describes the execution result for Just 5 repositories of SCALA language.
 
-
-**Similar response is generated for each of the languages : C, C++, Java, Python, Scala**
+**Similar response is generated for each of the languages : C, C++, Java, Python, Scala for any given number of repositories**
 
 The Executed output for each language is stored under `output/` directory.
 
