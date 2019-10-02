@@ -1,9 +1,11 @@
 package com.mohammedsiddiq.service.facadeAndChainPattern
 
 import java.io.{BufferedWriter, File, FileWriter}
+import java.util.Date
 
-import com.mohammedsiddiq.helpers.singletons.{ConfigReader, Constants, Queries}
+import com.mohammedsiddiq.helpers.singletons.{ConfigReader, Constants, Queries, TimeTracker}
 import com.mohammedsiddiq.models.buiderpattern.Repository
+import org.slf4j.{Logger, LoggerFactory}
 
 /**
   *
@@ -14,18 +16,37 @@ import com.mohammedsiddiq.models.buiderpattern.Repository
   */
 class TopRepoFinder extends GenerateQueryResult with ProcessQueryResult {
 
+  val logger: Logger = LoggerFactory.getLogger(this.getClass)
 
   def findTopStarredRepos(language: String): (String, List[Repository]) = {
 
 
+    val startTime = new Date
+
+    TimeTracker.startTime = startTime.getTime
+    logger.info("Stated querying github at " + startTime)
+
+
     //load query for the language specified
     val query = Queries.topRepoFinder(language.toLowerCase)
+
+
+
+
+
 
     //Querying github
     val responseString = queryGithub(query)
 
     //Processing the query response and constructing the repository objects
     val topRepos: List[Repository] = processResult(responseString)
+
+    val endTime = new Date
+
+    TimeTracker.endTime = endTime.getTime
+
+    logger.info("Total time taken for querying " + (endTime.getTime - startTime.getTime) + " Milli Seconds ")
+    TimeTracker.totalTime += TimeTracker.endTime - TimeTracker.startTime
 
     val outputString = prettyPrintResult(topRepos, language)
     persistOutput(outputString, language)

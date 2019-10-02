@@ -3,8 +3,9 @@ package com.mohammedsiddiq.service.facadeAndChainPattern
 import java.io.{BufferedWriter, File, FileWriter}
 import java.util.Date
 
-import com.mohammedsiddiq.helpers.singletons.{ConfigReader, Constants}
+import com.mohammedsiddiq.helpers.singletons.{ConfigReader, Constants, TimeTracker}
 import com.mohammedsiddiq.models.buiderpattern.{Actor, Issue, PullRequest, Repository}
+import org.slf4j.{Logger, LoggerFactory}
 import play.api.libs.json.{JsArray, JsValue, Json}
 
 import scala.collection.mutable.ListBuffer
@@ -15,6 +16,9 @@ import scala.collection.mutable.ListBuffer
   * {Patterns in use : Facade and chain of responsibility}
   */
 class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
+
+
+  val logger: Logger = LoggerFactory.getLogger(this.getClass)
 
   /**
     * overriding repo creation for capturing repository attributes
@@ -57,8 +61,19 @@ class RepoPullRequests extends GenerateQueryResult with ProcessQueryResult {
     * @param responseJson     The response which was already queried
     */
   def findRepoAttributes(forLanguageRepos: String, responseJson: String): Unit = {
+    val startTime = new Date
 
+    TimeTracker.startTime = startTime.getTime
+    logger.info("Stated processing at " + startTime)
     val repositories = processResult(responseJson)
+
+
+    val endTime = new Date
+
+    TimeTracker.endTime = endTime.getTime
+
+    logger.info("Total time taken for finding PR " + (endTime.getTime - startTime.getTime) + " Milli Seconds ")
+    TimeTracker.totalTime += TimeTracker.endTime - TimeTracker.startTime
     val outputString = prettyPrintResult(repositories, language = forLanguageRepos)
     persistOutput(outputString, forLanguageRepos)
 
