@@ -43,6 +43,7 @@ For each of the above languages the following metrics are captured :
 
 _Note:_  _Code which uses these patterns have their package named after the design patterns_
 
+
 ## Steps to Run
 
 - Clone this repo : 
@@ -179,6 +180,8 @@ The following describes the execution result for Just 5 repositories of SCALA la
 
 The Executed output for each language is stored under `output/` directory.
 
+
+**_Total Execution time is captured by `Timetracker` class. The driver program logs the total execution time at the end of execution_**
 
 
 ### Top Starred Repositories
