@@ -1,5 +1,5 @@
 # GitHub Languages Stargazer
-_A scala project modelling important attributes of Github repositories, using githubs v4 API over graphq. Developed as part of my Masters course CS 474: Object oriented languages and environments _.
+_A scala project modelling important attributes of Github repositories, using githubs v4 API over graphq. Developed as part of my Masters course CS 474: Object oriented languages and environments_.
 
 Interesting facts, figures and attributes are queried from github for various languages. This utility can be used to get a snapshot of happenings across repositories for a particular language
  
